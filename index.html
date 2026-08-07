@@ -103,31 +103,36 @@
   .hero h1{font-family:var(--serif);font-weight:500;font-size:clamp(30px,4.4vw,44px);line-height:1.16;margin:0 0 20px;}
   .hero p{font-size:16px;line-height:1.7;color:#D6DEE3;margin:0;max-width:680px;}
 
-  /* ---------- our business (simplified links) ---------- */
+  .eyebrow{font-family:var(--sans);font-weight:600;letter-spacing:2px;text-transform:uppercase;font-size:12px;color:var(--brass);margin:0 0 20px;}
+
+  /* ---------- who we are ---------- */
+  .who-we-are{background:var(--white);padding:64px 24px;}
+  .who-we-are__inner{max-width:760px;margin:0 auto;}
+  .who-we-are__text{font-family:var(--serif);font-weight:400;font-size:21px;line-height:1.6;color:var(--navy);margin:0;}
+
+  /* ---------- what we do (business links w/ description) ---------- */
   .our-business{background:var(--mist);padding:56px 24px;}
   .our-business__inner{max-width:1180px;margin:0 auto;}
-  .eyebrow{font-family:var(--sans);font-weight:600;letter-spacing:2px;text-transform:uppercase;font-size:12px;color:var(--brass);margin:0 0 20px;}
   .biz-links{display:flex;flex-wrap:wrap;gap:16px;}
-  .biz-link{flex:1 1 260px;display:flex;align-items:center;justify-content:space-between;gap:12px;background:var(--white);border:1px solid var(--line);border-radius:12px;padding:22px 24px;text-decoration:none;color:var(--navy);transition:box-shadow .15s ease, transform .15s ease;}
+  .biz-link{flex:1 1 300px;display:flex;flex-direction:column;gap:10px;background:var(--white);border:1px solid var(--line);border-radius:12px;padding:24px 26px;text-decoration:none;color:var(--navy);transition:box-shadow .15s ease, transform .15s ease;}
   .biz-link:hover{box-shadow:0 10px 28px rgba(11,31,53,0.10);transform:translateY(-2px);}
+  .biz-link__top{display:flex;align-items:center;justify-content:space-between;gap:12px;}
   .biz-link__label{font-family:var(--serif);font-weight:500;font-size:19px;}
-  .biz-link__arrow{font-size:20px;color:var(--teal);flex:0 0 auto;}
+  .biz-link__arrow{font-size:19px;color:var(--teal);flex:0 0 auto;}
+  .biz-link__desc{font-size:13.5px;line-height:1.6;color:var(--ink-soft);margin:0;}
 
-  /* ---------- selected project experience ---------- */
-  .projects{max-width:1180px;margin:0 auto;padding:64px 24px 12px;}
-  .projects__head{margin-bottom:30px;}
-  .projects__head h2{font-family:var(--serif);font-weight:500;font-size:27px;color:var(--navy);margin:0 0 8px;}
-  .projects__head p{font-size:14.5px;color:var(--ink-soft);margin:0;}
-  .proj-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:20px;margin-bottom:28px;}
-  .proj-card{border:1px solid var(--line);border-radius:12px;padding:22px;background:var(--white);}
-  .proj-card__meta{font-size:11.5px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;color:var(--teal-dark);margin:0 0 10px;}
-  .proj-card__title{font-family:var(--serif);font-weight:500;font-size:17px;line-height:1.35;color:var(--navy);margin:0 0 10px;}
-  .proj-card__desc{font-size:13.5px;line-height:1.65;color:var(--ink-soft);margin:0;}
-  .projects__more{font-size:14px;font-weight:600;color:var(--teal-dark);text-decoration:none;}
-  .projects__more:hover{text-decoration:underline;}
+  /* ---------- why sundance ---------- */
+  .why-sundance{background:var(--white);padding:60px 24px 68px;text-align:center;}
+  .why-sundance__inner{max-width:640px;margin:0 auto;}
+  .why-sundance .eyebrow{margin:0 0 18px;}
+  .values-list{list-style:none;margin:0 0 22px;padding:0;display:flex;flex-wrap:wrap;justify-content:center;gap:10px 18px;}
+  .values-list li{font-family:var(--serif);font-weight:500;font-size:17px;color:var(--navy);position:relative;}
+  .values-list li:not(:last-child)::after{content:'\00b7';color:var(--brass);margin-left:18px;position:absolute;right:-14px;}
+  .why-sundance__link{display:inline-block;font-size:14px;font-weight:600;color:var(--teal-dark);text-decoration:none;}
+  .why-sundance__link:hover{text-decoration:underline;}
 
   /* ---------- closing CTA ---------- */
-  .cta{background:var(--mist);margin-top:56px;}
+  .cta{background:var(--mist);}
   .cta__inner{max-width:720px;margin:0 auto;padding:56px 24px;text-align:center;}
   .cta h2{font-family:var(--serif);font-weight:500;font-size:26px;color:var(--navy);margin:0 0 10px;}
   .cta p{font-size:15px;line-height:1.6;color:var(--ink-soft);margin:0 0 24px;}
@@ -136,7 +141,8 @@
 
   @media (max-width:640px){
     .hero{padding:80px 18px 60px;}
-    .projects{padding:48px 18px 8px;}
+    .who-we-are{padding:48px 18px;}
+    .who-we-are__text{font-size:19px;}
   }
 </style>
 </head>
@@ -177,54 +183,46 @@
   </div>
 </header>
 
+<section class="who-we-are">
+  <div class="who-we-are__inner">
+    <p class="eyebrow">Who We Are</p>
+    <p class="who-we-are__text">Sundance Technologies West Africa Limited supports marine and energy operators across the region, combining hands-on marine project delivery with technical and commercial advisory. We work to be a dependable, safety-first partner for operators, EPC contractors and equipment owners navigating West Africa&rsquo;s marine and energy value chain.</p>
+  </div>
+</section>
+
 <section class="our-business">
   <div class="our-business__inner">
-    <p class="eyebrow">Our Business</p>
+    <p class="eyebrow">What We Do</p>
     <div class="biz-links">
-      <a class="biz-link" href="sundance-marine-services.html"><span class="biz-link__label">Sundance Marine Services</span><span class="biz-link__arrow">&rarr;</span></a>
-      <a class="biz-link" href="sundance-energy-advisory.html"><span class="biz-link__label">Sundance Energy Advisory</span><span class="biz-link__arrow">&rarr;</span></a>
+      <a class="biz-link" href="sundance-marine-services.html">
+        <div class="biz-link__top">
+          <span class="biz-link__label">Sundance Marine Services</span>
+          <span class="biz-link__arrow">&rarr;</span>
+        </div>
+        <p class="biz-link__desc">Vessel chartering, technical ship management, and cargo superintendency across West African ports and waterways.</p>
+      </a>
+      <a class="biz-link" href="sundance-energy-advisory.html">
+        <div class="biz-link__top">
+          <span class="biz-link__label">Sundance Energy Advisory</span>
+          <span class="biz-link__arrow">&rarr;</span>
+        </div>
+        <p class="biz-link__desc">Technical, commercial and regulatory compliance advisory across the energy value chain.</p>
+      </a>
     </div>
   </div>
 </section>
 
-<section class="projects">
-  <div class="projects__head">
-    <h2>Selected Project Experience</h2>
-    <p>A sample of recent work across marine and energy advisory.</p>
+<section class="why-sundance">
+  <div class="why-sundance__inner">
+    <p class="eyebrow">Why Sundance</p>
+    <ul class="values-list">
+      <li>Diligence</li>
+      <li>Integrity</li>
+      <li>Resilience</li>
+      <li>Excellence</li>
+    </ul>
+    <a class="why-sundance__link" href="about.html">Read more about how we work &rarr;</a>
   </div>
-  <div class="proj-grid">
-
-      <article class="proj-card">
-        <p class="proj-card__meta">2025 &middot; Port Harcourt</p>
-        <h3 class="proj-card__title">FPSO Project Cargo Superintendency</h3>
-        <p class="proj-card__desc">Cargo superintendency and marine coordination for FPSO-related project cargo in Port Harcourt.</p>
-      </article>
-
-      <article class="proj-card">
-        <p class="proj-card__meta">2023 &middot; Port Harcourt</p>
-        <h3 class="proj-card__title">Subsea IMR ROV Campaign Field Study</h3>
-        <p class="proj-card__desc">Subsea field study and campaign planning support for IMR operations.</p>
-      </article>
-
-      <article class="proj-card">
-        <p class="proj-card__meta">2023 &middot; Luanda, Angola</p>
-        <h3 class="proj-card__title">OSV Tendering Support</h3>
-        <p class="proj-card__desc">Tender strategy, vessel evaluation and advisory support for offshore campaigns in Luanda.</p>
-      </article>
-
-      <article class="proj-card">
-        <p class="proj-card__meta">2022 &middot; Lagos&ndash;Tema, Ghana</p>
-        <h3 class="proj-card__title">Project Cargo &ndash; Diving Spread</h3>
-        <p class="proj-card__desc">On-deck transport of a diving spread from Lagos to Tema.</p>
-      </article>
-
-      <article class="proj-card">
-        <p class="proj-card__meta">2026 &middot; West Africa</p>
-        <h3 class="proj-card__title">Shallow Water Riser &amp; Flowline Fabrication Program</h3>
-        <p class="proj-card__desc">Technical and commercial advisory for an EPCI contractor on design, fabrication and installation of shallow water riser and flowline systems for a marginal field development.</p>
-      </article>
-  </div>
-  <a class="projects__more" href="project-gallery.html">Review more of our deliverables &rarr;</a>
 </section>
 
 <section class="cta">
