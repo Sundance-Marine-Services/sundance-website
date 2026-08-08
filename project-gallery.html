@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project Gallery | Sundance Technologies West Africa Limited</title>
+<meta name="description" content="An overview of Sundance Technologies West Africa Limited's executed marine and energy advisory projects across West Africa since 2018.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/img/favicon-512.png">
+<link rel="apple-touch-icon" href="assets/img/favicon-180.png">
+<style>
+
+  :root{
+    --navy:#0B1F35;
+    --white:#FFFFFF;
+    --mist:#EEF1F3;
+    --brass:#A67C3D;
+    --teal:#2E6E7E;
+    --teal-dark:#204F5C;
+    --ink-soft:#4B5C66;
+    --line:#DDE3E6;
+    --serif:'Fraunces', Georgia, serif;
+    --sans:'Inter', -apple-system, Segoe UI, sans-serif;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:var(--sans);color:var(--navy);background:var(--white);-webkit-font-smoothing:antialiased;}
+  img{max-width:100%;display:block;}
+  a{color:inherit;}
+
+  /* ---------- site header / primary nav ---------- */
+  .site-header{background:var(--navy);color:var(--white);position:relative;z-index:40;}
+  .site-header__inner{max-width:1320px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;gap:20px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--white);flex:0 0 auto;}
+  .brand__logo{width:36px;height:36px;object-fit:contain;display:block;}
+  .brand__text{font-family:var(--serif);font-size:15px;line-height:1.2;font-weight:500;letter-spacing:.2px;}
+  .brand__text small{display:block;font-family:var(--sans);font-size:9px;font-weight:600;letter-spacing:1.4px;color:var(--brass);margin-top:2px;}
+
+  .nav-toggle{display:none;background:none;border:0;color:var(--white);padding:6px;cursor:pointer;}
+  .nav-toggle svg{width:24px;height:24px;}
+
+  .site-nav__list{display:flex;align-items:center;gap:15px;list-style:none;margin:0;padding:0;flex-wrap:nowrap;}
+  .site-nav__list > li{position:relative;}
+  .site-nav__list > li > a,
+  .dd-toggle{font-family:var(--sans);font-size:13px;font-weight:600;color:#E7ECEF;text-decoration:none;white-space:nowrap;background:none;border:0;padding:8px 0;cursor:pointer;display:inline-flex;align-items:center;gap:5px;}
+  .site-nav__list > li > a:hover,
+  .dd-toggle:hover{color:var(--white);}
+  .site-nav__list > li > a.is-current{color:var(--white);border-bottom:2px solid var(--brass);}
+  .chev{width:9px;height:6px;flex:0 0 auto;transition:transform .15s ease;}
+  .has-dropdown:hover .chev,
+  .has-dropdown.is-open .chev{transform:rotate(180deg);}
+
+  .dropdown{position:absolute;top:100%;left:0;min-width:280px;background:var(--white);border-radius:10px;box-shadow:0 16px 40px rgba(11,31,53,0.18);padding:8px;list-style:none;margin:10px 0 0;opacity:0;visibility:hidden;transform:translateY(6px);transition:opacity .15s ease, transform .15s ease, visibility .15s ease;}
+  .has-dropdown:hover .dropdown,
+  .has-dropdown.is-open .dropdown{opacity:1;visibility:visible;transform:translateY(0);}
+  .dropdown li a{display:block;padding:9px 12px;border-radius:7px;text-decoration:none;color:var(--navy);}
+  .dropdown li a:hover{background:var(--mist);}
+  .dropdown li a strong{display:block;font-size:13px;font-weight:600;color:var(--navy);}
+  .dropdown li a span{display:block;font-size:11.5px;color:var(--ink-soft);margin-top:1px;}
+
+  @media (max-width:1300px){
+    .nav-toggle{display:inline-flex;}
+    .site-nav{position:absolute;top:100%;left:0;right:0;background:var(--navy);max-height:0;overflow:hidden;transition:max-height .25s ease;}
+    .site-nav.is-open{max-height:80vh;overflow-y:auto;}
+    .site-nav__list{flex-direction:column;align-items:stretch;gap:0;padding:8px 24px 18px;}
+    .site-nav__list > li{width:100%;}
+    .site-nav__list > li > a,.dd-toggle{width:100%;padding:12px 0;justify-content:space-between;border-bottom:1px solid rgba(255,255,255,0.08);}
+    .dropdown{position:static;box-shadow:none;background:rgba(255,255,255,0.04);opacity:1;visibility:visible;transform:none;display:none;margin:0 0 6px;}
+    .has-dropdown.is-open .dropdown{display:block;}
+    .dropdown li a strong{color:var(--white);}
+    .dropdown li a span{color:#AFC0C9;}
+    .dropdown li a:hover{background:rgba(255,255,255,0.06);}
+  }
+
+  /* ---------- site footer ---------- */
+  .site-footer{background:var(--navy);color:#C9D3D9;margin-top:64px;}
+  .site-footer__inner{max-width:1320px;margin:0 auto;padding:52px 24px 30px;display:grid;grid-template-columns:1.6fr 1fr 1fr 1.2fr;gap:32px;}
+  .footer-brand .brand{margin-bottom:14px;}
+  .footer-brand p{font-size:13px;line-height:1.7;color:#AEBBC3;margin:0 0 8px;max-width:280px;}
+  .footer-brand .rc{font-size:12px;color:#7E8E97;}
+  .footer-col h4{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;color:#8FA3AD;margin:0 0 14px;}
+  .footer-col ul{list-style:none;margin:0;padding:0;}
+  .footer-col li{margin-bottom:9px;}
+  .footer-col a{color:#D3DBDF;font-size:13.5px;text-decoration:none;}
+  .footer-col a:hover{color:var(--white);text-decoration:underline;}
+  .footer-col p{font-size:13.5px;line-height:1.7;color:#C9D3D9;margin:0 0 8px;}
+  .site-footer__bottom{border-top:1px solid rgba(255,255,255,0.1);}
+  .site-footer__bottom p{max-width:1320px;margin:0 auto;padding:18px 24px;font-size:12px;color:#8395A0;}
+  .site-footer__bottom a{color:#B7C4CB;text-decoration:underline;}
+  @media (max-width:900px){
+    .site-footer__inner{grid-template-columns:1fr 1fr;}
+  }
+  @media (max-width:560px){
+    .site-footer__inner{grid-template-columns:1fr;}
+  }
+
+
+  /* ---------- page hero ---------- */
+  .page-hero{background:var(--navy);color:var(--white);padding:64px 24px 52px;}
+  .page-hero__inner{max-width:820px;margin:0 auto;}
+  .page-hero .eyebrow{color:var(--brass);}
+  .page-hero h1{font-family:var(--serif);font-weight:500;font-size:clamp(28px,4vw,38px);margin:8px 0 16px;}
+  .page-hero p{font-size:15.5px;line-height:1.7;color:#D6DEE3;margin:0;max-width:700px;}
+
+  /* ---------- project sections ---------- */
+  .gallery-section{max-width:900px;margin:0 auto;padding:52px 24px 8px;}
+  .gallery-section__head{margin-bottom:8px;}
+  .gallery-section__head h2{font-family:var(--serif);font-weight:500;font-size:24px;color:var(--navy);margin:0 0 6px;}
+  .gallery-section__head p{font-size:13.5px;color:var(--ink-soft);margin:0 0 24px;}
+
+  .proj-row{display:grid;grid-template-columns:140px 1fr;gap:24px;padding:22px 0;border-top:1px solid var(--line);}
+  .proj-row__meta{display:flex;flex-direction:column;gap:4px;padding-top:3px;}
+  .proj-row__year{font-family:var(--serif);font-weight:500;font-size:16px;color:var(--navy);}
+  .proj-row__loc{font-size:12px;color:var(--ink-soft);line-height:1.4;}
+  .proj-row__title{font-family:var(--serif);font-weight:500;font-size:18px;line-height:1.35;color:var(--navy);margin:0 0 6px;}
+  .proj-row__client{font-size:11.5px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:var(--teal-dark);margin:0 0 8px;}
+  .proj-row__desc{font-size:14px;line-height:1.65;color:var(--ink-soft);margin:0;}
+
+  .proj-row__image{width:100%;aspect-ratio:16/9;border-radius:10px;overflow:hidden;margin-bottom:14px;background:var(--mist);}
+  .proj-row__image img{width:100%;height:100%;object-fit:cover;display:block;}
+
+  @media (max-width:600px){
+    .proj-row{grid-template-columns:1fr;gap:6px;}
+    .proj-row__meta{flex-direction:row;gap:10px;}
+  }
+
+  /* ---------- closing CTA ---------- */
+  .cta{background:var(--mist);margin-top:56px;}
+  .cta__inner{max-width:720px;margin:0 auto;padding:56px 24px;text-align:center;}
+  .cta h2{font-family:var(--serif);font-weight:500;font-size:26px;color:var(--navy);margin:0 0 10px;}
+  .cta p{font-size:15px;line-height:1.6;color:var(--ink-soft);margin:0 0 24px;}
+  .btn-cta{display:inline-block;font-size:14px;font-weight:600;color:var(--white);background:var(--teal);padding:13px 28px;border-radius:8px;text-decoration:none;transition:background .15s ease;}
+  .btn-cta:hover{background:var(--teal-dark);}
+
+  @media (max-width:640px){
+    .page-hero{padding:48px 18px 40px;}
+    .gallery-section{padding:40px 18px 8px;}
+  }
+</style>
+</head>
+<body>
+
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a href="index.html" class="brand">
+      <img src="assets/img/logo.png" alt="Sundance Technologies West Africa Limited" class="brand__logo">
+      <span class="brand__text">Sundance Technologies<small>WEST AFRICA LIMITED</small></span>
+    </a>
+    <button class="nav-toggle" id="navToggle" aria-label="Open menu" aria-expanded="false" aria-controls="siteNav">
+      <svg viewBox="0 0 24 24" fill="none"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+    </button>
+    <nav class="site-nav" id="siteNav" aria-label="Primary">
+      <ul class="site-nav__list">
+        <li><a href="index.html">Home</a></li><li><a href="about.html">About</a></li>
+        <li class="has-dropdown">
+          <button class="dd-toggle" aria-expanded="false">Sundance Marine Services <svg class="chev" viewBox="0 0 12 8" fill="none"><path d="M1 1.5 6 6.5 11 1.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <ul class="dropdown"><li><a href="marine-osv-chartering.html"><strong>OSV Chartering</strong><span>Vessel representation and fixture support</span></a></li><li><a href="marine-assets-sp.html"><strong>Marine Assets S&amp;P</strong><span>Sale and purchase advisory</span></a></li><li><a href="marine-ship-management.html"><strong>Ship Management</strong><span>Technical &amp; commercial management</span></a></li><li><a href="marine-offshore-logistics.html"><strong>Offshore Logistics Support</strong><span>Marine coordination for campaigns</span></a></li><li><a href="marine-drilling-support.html"><strong>Drilling Support</strong><span>Marine services for drilling campaigns</span></a></li><li><a href="marine-project-management.html"><strong>Marine Project Management</strong><span>Planning and oversight</span></a></li><li><a href="marine-port-cargo-services.html"><strong>Port &amp; Cargo Services</strong><span>Superintendency &amp; importation support</span></a></li></ul>
+        </li>
+        <li class="has-dropdown">
+          <button class="dd-toggle" aria-expanded="false">Sundance Energy Advisory <svg class="chev" viewBox="0 0 12 8" fill="none"><path d="M1 1.5 6 6.5 11 1.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <ul class="dropdown"><li><a href="energy-value-chain-consultancy.html"><strong>Energy Value Chain Consultancy</strong><span>Broad advisory across the value chain</span></a></li><li><a href="energy-business-case-development.html"><strong>Business Case Development</strong><span>Marine, subsea &amp; heavy transport</span></a></li><li><a href="energy-technical-commercial-advisory.html"><strong>Technical &amp; Commercial Advisory</strong><span>Scope &amp; contracting structure</span></a></li><li><a href="energy-regulatory-compliance.html"><strong>Regulatory Compliance Advisory</strong><span>West African regulatory frameworks</span></a></li><li><a href="energy-equipment-procurement.html"><strong>Equipment Procurement Advisory</strong><span>Fabrication &amp; equipment partners</span></a></li></ul>
+        </li>
+        <li><a href="fleet.html">Fleet &amp; Equipment</a></li><li><a href="safety-hseq.html">Safety &amp; HSEQ</a></li><li><a href="project-gallery.html" class="is-current" aria-current="page">Project Gallery</a></li><li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<header class="page-hero">
+  <div class="page-hero__inner">
+    <p class="eyebrow">Project Gallery</p>
+    <h1>Project Gallery</h1>
+    <p>An overview of Sundance&rsquo;s executed marine and energy advisory projects. Client names are withheld for confidentiality; project scope is shown as delivered.</p>
+  </div>
+</header>
+
+<section class="gallery-section">
+  <div class="gallery-section__head">
+    <h2>Marine Services</h2>
+    <p>Reverse chronological, 2018&ndash;2025.</p>
+  </div>
+  
+      <article class="proj-row">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2025</span>
+          <span class="proj-row__loc">Port Harcourt</span>
+        </div>
+        <div class="proj-row__body">
+          
+          <h3 class="proj-row__title">FPSO Project Cargo Superintendency</h3>
+          <p class="proj-row__client">Independent E&amp;P operator, delivered through its energy partner</p>
+          <p class="proj-row__desc">Cargo superintendency and marine coordination for FPSO-related project cargo.</p>
+        </div>
+      </article>
+
+      <article class="proj-row">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2024</span>
+          <span class="proj-row__loc">Port Harcourt</span>
+        </div>
+        <div class="proj-row__body">
+          
+          <h3 class="proj-row__title">Operational Readiness Support for a Diving Contractor</h3>
+          <p class="proj-row__client">Confidential</p>
+          <p class="proj-row__desc">Operational safety management system development, training and implementation for a subsea diving contractor.</p>
+        </div>
+      </article>
+
+      <article class="proj-row">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2024</span>
+          <span class="proj-row__loc">Lagos</span>
+        </div>
+        <div class="proj-row__body">
+          
+          <h3 class="proj-row__title">Marine Business Case for Vessel Docking Finance</h3>
+          <p class="proj-row__client">Confidential</p>
+          <p class="proj-row__desc">Marine commercial business case development supporting bank credit financing for a vessel drydocking.</p>
+        </div>
+      </article>
+
+      <article class="proj-row has-image">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2023</span>
+          <span class="proj-row__loc">Port Harcourt</span>
+        </div>
+        <div class="proj-row__body">
+          <div class="proj-row__image"><img src="gallery-port-inspection.jpg" alt="" loading="lazy"></div>
+          <h3 class="proj-row__title">Third-Party Fleet Assurance Surveys</h3>
+          <p class="proj-row__client">Global oilfield services company, delivered through a marine services partner</p>
+          <p class="proj-row__desc">Independent fleet assurance surveys covering MEDEVAC boats, crew transport vessels and PSVs.</p>
+        </div>
+      </article>
+
+      <article class="proj-row has-image">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2023</span>
+          <span class="proj-row__loc">Port Harcourt</span>
+        </div>
+        <div class="proj-row__body">
+          <div class="proj-row__image"><img src="gallery-rov-launch.jpg" alt="" loading="lazy"></div>
+          <h3 class="proj-row__title">Subsea IMR ROV Campaign Field Study</h3>
+          <p class="proj-row__client">International E&amp;P major, delivered through a local energy partner</p>
+          <p class="proj-row__desc">Subsea field study and campaign planning support for IMR operations.</p>
+        </div>
+      </article>
+
+      <article class="proj-row">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2023</span>
+          <span class="proj-row__loc">Luanda, Angola</span>
+        </div>
+        <div class="proj-row__body">
+          
+          <h3 class="proj-row__title">OSV Tendering Support</h3>
+          <p class="proj-row__client">International E&amp;P operator, delivered through a local energy partner</p>
+          <p class="proj-row__desc">Tender strategy, vessel evaluation and advisory support for offshore campaigns.</p>
+        </div>
+      </article>
+
+      <article class="proj-row has-image">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2022</span>
+          <span class="proj-row__loc">Port Harcourt</span>
+        </div>
+        <div class="proj-row__body">
+          <div class="proj-row__image"><img src="gallery-osv-berth.jpg" alt="" loading="lazy"></div>
+          <h3 class="proj-row__title">OSV Tendering Support</h3>
+          <p class="proj-row__client">Major E&amp;P operator, delivered through a marine services partner</p>
+          <p class="proj-row__desc">Client-side technical and commercial advisory for OSV tendering.</p>
+        </div>
+      </article>
+
+      <article class="proj-row has-image">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2022</span>
+          <span class="proj-row__loc">Lagos&ndash;Tema, Ghana</span>
+        </div>
+        <div class="proj-row__body">
+          <div class="proj-row__image"><img src="gallery-project-cargo-deck.jpg" alt="" loading="lazy"></div>
+          <h3 class="proj-row__title">Project Cargo &ndash; Diving Spread</h3>
+          <p class="proj-row__client">International diving contractor</p>
+          <p class="proj-row__desc">On-deck transport of a diving spread from mobilisation site to project site.</p>
+        </div>
+      </article>
+
+      <article class="proj-row">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2022</span>
+          <span class="proj-row__loc">Lagos</span>
+        </div>
+        <div class="proj-row__body">
+          
+          <h3 class="proj-row__title">Heavy Transport Engineering Studies</h3>
+          <p class="proj-row__client">Global heavy engineering and EPC contractor</p>
+          <p class="proj-row__desc">Engineering and logistics studies supporting heavy transport of piperack modules.</p>
+        </div>
+      </article>
+
+      <article class="proj-row has-image">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2021</span>
+          <span class="proj-row__loc">Lagos</span>
+        </div>
+        <div class="proj-row__body">
+          <div class="proj-row__image"><img src="gallery-engine-room.jpg" alt="" loading="lazy"></div>
+          <h3 class="proj-row__title">Marine Operational Standards Documentation and Implementation</h3>
+          <p class="proj-row__client">Nigerian marine operator</p>
+          <p class="proj-row__desc">Developed an ISM Safety Management System manual for the operator&rsquo;s marine fleet.</p>
+        </div>
+      </article>
+
+      <article class="proj-row has-image">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2020&ndash;2021</span>
+          <span class="proj-row__loc">Port Harcourt</span>
+        </div>
+        <div class="proj-row__body">
+          <div class="proj-row__image"><img src="gallery-bridge-operations.jpg" alt="" loading="lazy"></div>
+          <h3 class="proj-row__title">Personnel Transfer Boat Supply (High-Speed Surfer)</h3>
+          <p class="proj-row__client">International E&amp;P major</p>
+          <p class="proj-row__desc">Vessel charter and operational support for personnel transfer operations.</p>
+        </div>
+      </article>
+
+      <article class="proj-row">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2019&ndash;2020</span>
+          <span class="proj-row__loc">Apapa, Lagos</span>
+        </div>
+        <div class="proj-row__body">
+          
+          <h3 class="proj-row__title">Inland Water Containerised Cargo Transport</h3>
+          <p class="proj-row__client">Logistics and freight-forwarding operator</p>
+          <p class="proj-row__desc">Containerised cargo transport from Apapa ports to inland terminals across Lagos, including Kirikiri, Ijora, Satellite Town and Mile 2.</p>
+        </div>
+      </article>
+
+      <article class="proj-row has-image">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2018&ndash;2019</span>
+          <span class="proj-row__loc">Ugo-Ocha FSO, Nigeria</span>
+        </div>
+        <div class="proj-row__body">
+          <div class="proj-row__image"><img src="gallery-valve-operations.jpg" alt="" loading="lazy"></div>
+          <h3 class="proj-row__title">VLCC Export Mooring Services</h3>
+          <p class="proj-row__client">Indigenous EPC and engineering contractor</p>
+          <p class="proj-row__desc">Marine engineering and operational support for VLCC export mooring operations in an offshore environment.</p>
+        </div>
+      </article>
+</section>
+
+<section class="gallery-section">
+  <div class="gallery-section__head">
+    <h2>Energy Advisory</h2>
+    <p>Selected advisory engagements.</p>
+  </div>
+  
+      <article class="proj-row has-image">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2026</span>
+          <span class="proj-row__loc">West Africa</span>
+        </div>
+        <div class="proj-row__body">
+          <div class="proj-row__image"><img src="gallery-psv-berth.jpg" alt="" loading="lazy"></div>
+          <h3 class="proj-row__title">West Africa Offshore Operations Strategy &mdash; New-Build OSV Deployment</h3>
+          <p class="proj-row__client">Vessel builder and operator</p>
+          <p class="proj-row__desc">Technical and commercial advisory on operations and market-entry strategy for a new-build OSV deployment &mdash; regulatory compliance, vessel registration, and local content/ESG strategy.</p>
+        </div>
+      </article>
+
+      <article class="proj-row">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2026</span>
+          <span class="proj-row__loc">West Africa</span>
+        </div>
+        <div class="proj-row__body">
+          
+          <h3 class="proj-row__title">Marine Business Portfolio Diversification Strategy</h3>
+          <p class="proj-row__client">Offshore support vessel operator, expanding into higher-tonnage OSV operations</p>
+          <p class="proj-row__desc">Market entry and technology adoption strategy supporting the operator&rsquo;s move from offshore passenger transport into specialised marine services, including a Change Management Framework programme, new-markets analysis across subsea and pipeline IMR, and marine asset acquisition advisory.</p>
+        </div>
+      </article>
+
+      <article class="proj-row has-image">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2026</span>
+          <span class="proj-row__loc">West Africa</span>
+        </div>
+        <div class="proj-row__body">
+          <div class="proj-row__image"><img src="gallery-platform-epf.jpg" alt="" loading="lazy"></div>
+          <h3 class="proj-row__title">Early Production Facility (EPF) Technical Design &amp; Fabrication Partner Selection</h3>
+          <p class="proj-row__client">Shallow water marginal field operator</p>
+          <p class="proj-row__desc">Technical advisory across module design and fabrication specification, fabrication partner selection and evaluation, and project finance structuring.</p>
+        </div>
+      </article>
+
+      <article class="proj-row">
+        <div class="proj-row__meta">
+          <span class="proj-row__year">2026</span>
+          <span class="proj-row__loc">West Africa</span>
+        </div>
+        <div class="proj-row__body">
+          
+          <h3 class="proj-row__title">Shallow Water Riser &amp; Flowline Fabrication Program</h3>
+          <p class="proj-row__client">EPCI contractor</p>
+          <p class="proj-row__desc">Technical and commercial advisory for the design, fabrication and installation of shallow water riser and flowline systems for a marginal field development.</p>
+        </div>
+      </article>
+</section>
+
+<section class="cta">
+  <div class="cta__inner">
+    <h2>Want the full picture for a similar scope?</h2>
+    <p>We&rsquo;re happy to share relevant detail once we understand what you&rsquo;re planning.</p>
+    <a class="btn-cta" href="contact.html">Contact us</a>
+  </div>
+</section>
+
+
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <div class="footer-brand">
+      <a href="index.html" class="brand brand--footer">
+        <img src="assets/img/logo.png" alt="Sundance Technologies West Africa Limited" class="brand__logo">
+        <span class="brand__text">Sundance Technologies<small>WEST AFRICA LIMITED</small></span>
+      </a>
+      <p>Marine project management, ship management, and energy value-chain advisory across West Africa.</p>
+      <p class="rc">RC 1497579</p>
+    </div>
+    <div class="footer-col">
+      <h4>Our Business</h4>
+      <ul>
+        <li><a href="sundance-marine-services.html">Marine Services</a></li>
+        <li><a href="sundance-energy-advisory.html">Energy Advisory</a></li>
+        <li><a href="fleet.html">Fleet &amp; Equipment</a></li>
+        <li><a href="project-gallery.html">Project Gallery</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Company</h4>
+      <ul>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="our-business.html">Our Business</a></li>
+        <li><a href="safety-hseq.html">Safety &amp; HSEQ</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Get in Touch</h4>
+      <p>Mulliner Towers, 7th Floor,<br>39 Alfred Rewane Road, Ikoyi,<br>Lagos, Nigeria</p>
+      <p><a href="mailto:contact@sundance.com.ng">contact@sundance.com.ng</a></p>
+      <p><a href="tel:+2349090168479">+234 909 016 8479</a></p>
+    </div>
+  </div>
+  <div class="site-footer__bottom">
+    <p>&copy; Sundance Technologies West Africa Limited. All rights reserved. <a href="privacy-policy.html">Privacy Policy</a> &middot; <a href="disclaimer.html">Disclaimer</a></p>
+  </div>
+</footer>
+
+<script>
+
+(function(){
+  var toggle = document.getElementById('navToggle');
+  var nav = document.getElementById('siteNav');
+  if (toggle && nav) {
+    toggle.addEventListener('click', function(){
+      var open = nav.classList.toggle('is-open');
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.has-dropdown > .dd-toggle').forEach(function(btn){
+    btn.addEventListener('click', function(e){
+      e.preventDefault();
+      var li = btn.closest('.has-dropdown');
+      var isOpen = li.classList.contains('is-open');
+      document.querySelectorAll('.has-dropdown.is-open').forEach(function(o){
+        if (o !== li) { o.classList.remove('is-open'); }
+      });
+      li.classList.toggle('is-open', !isOpen);
+      btn.setAttribute('aria-expanded', !isOpen ? 'true' : 'false');
+    });
+  });
+  document.addEventListener('click', function(e){
+    if (!e.target.closest('.has-dropdown')) {
+      document.querySelectorAll('.has-dropdown.is-open').forEach(function(o){ o.classList.remove('is-open'); });
+    }
+  });
+})();
+
+</script>
+</body>
+</html>
