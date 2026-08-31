@@ -15,6 +15,7 @@
   --teal:#2E6E7E;
   --teal-dark:#20505C;
   --teal-tint:#E4EEF0;
+  --icon-teal:#5AD1DE;
   --brass:#A67C3D;
   --brass-dark:#86622E;
   --brass-tint:#F3EAD9;
@@ -515,6 +516,8 @@ figure.photo figcaption{
 .site-footer h4{color:var(--white);font-family:var(--font-body);font-size:13px;letter-spacing:.6px;text-transform:uppercase;margin:0 0 14px;}
 .site-footer ul{list-style:none;margin:0;padding:0;}
 .site-footer li{margin-bottom:9px;font-size:14px;color:rgba(255,255,255,.65);line-height:1.5;}
+.foot-address{display:flex;gap:9px;align-items:flex-start;margin-bottom:14px;}
+.foot-icon{flex-shrink:0;width:16px;height:16px;margin-top:3px;color:var(--icon-teal);}
 .site-footer a{color:rgba(255,255,255,.78);text-decoration:none;}
 .site-footer a:hover{color:var(--white);text-decoration:underline;}
 .foot-bottom{
