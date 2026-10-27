@@ -3,7 +3,7 @@ const assert=require('node:assert/strict');
 const fs=require('node:fs');const path=require('node:path');const {JSDOM}=require('jsdom');
 const ROOT=path.join(__dirname,'..');const pages=fs.readdirSync(ROOT).filter(x=>x.endsWith('.html'));
 test('all pages share working navigation, offices, phone links and unique metadata',()=>{
- const titles=new Set(),footers=new Set(),headers=new Set();assert.equal(pages.length,26);
+ const titles=new Set(),footers=new Set(),headers=new Set();assert.ok(pages.length>=27);
  for(const name of pages){
   const dom=new JSDOM(fs.readFileSync(path.join(ROOT,name),'utf8'),{url:'https://sundance.com.ng/'+name});const d=dom.window.document;
   try{

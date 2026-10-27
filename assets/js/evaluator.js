@@ -59,7 +59,7 @@
   if(d.action==='save')save();if(d.action==='summary')download(filename('txt'),M.summary(state),'text/plain;charset=utf-8');if(d.action==='print')printReport();
  });
  function save(){download(filename('json'),JSON.stringify(state,null,2),'application/json');dirty=false;notice('Project file downloaded. Keep it to reopen this assessment.');}
- function printReport(){const area=document.getElementById('evaluation-print');area.textContent=M.summary(state);window.print();}
+ function printReport(){const area=document.getElementById('evaluation-print'),summary=M.summary(state),company='Sundance Technologies West Africa Limited',at=summary.lastIndexOf(company);area.replaceChildren(document.createTextNode(summary.slice(0,at)+company));const rc=document.createElement('sup');rc.className='s-rc';rc.textContent='RC 1497579';area.append(rc,document.createTextNode(summary.slice(at+company.length).replace(/^ \(RC 1497579\)/,'')));window.print();}
  document.getElementById('ev-save').addEventListener('click',save);
  document.getElementById('ev-example').addEventListener('click',()=>{if(dirty&&!window.confirm('Replace the current assessment with a fictional example? Save your project first to retain it.'))return;state=M.example(document.getElementById('ev-example-profile').value);selected=0;tab='results';dirty=true;render(true);notice('Fictional example loaded. All figures and evidence references are illustrative.');});
  document.getElementById('ev-new').addEventListener('click',()=>{if(dirty&&!window.confirm('Start a new assessment? Save your project first to retain it.'))return;state=M.blank();selected=0;tab='context';dirty=false;render(true);notice('New assessment started.');});

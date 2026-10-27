@@ -11,6 +11,9 @@ This is a review release, **not a verified production deployment**. GitHub repos
 - `fleet.html`: descriptive image alternatives, working PDF links and further equipment available on request.
 - `project-evaluator.html`: public browser-based evaluator, ten combinable work packages, custom criteria and up to four candidate packages; no login or email gate.
 - `contact.html`: supplied Zoho form with website privacy notice, business-context links and confirmed office/contact details.
+- `blog.html`: static Blog & Insights index, full-HTML article publishing support and RSS feed. No articles are published yet.
+- `about.html#corporate-profile` and `sundance-energy-infrastructure.html#infrastructure-profile`: public PDF download sections prepared; the owner-approved PDFs still need to be supplied.
+- `docs/content-publishing.md`: blog editorial process and PDF activation instructions.
 - `docs/website-corrections-2026-10-26.md`: sequential implementation register, evidence and remaining owner actions.
 - `docs/fleet-image-alternatives.md`: fleet image decisions and complete replacement image tags.
 
@@ -25,7 +28,9 @@ npm ci
 npm test
 ```
 
-All 29 model, DOM-integration and static tests pass. Browser checks verify fictional comparisons, keyboard tabs, mandatory-gap changes, commercial totals, JSON/text downloads, mobile navigation and the embedded form's Infrastructure preselection. Axe 4.14 reports zero violations across 26 pages at 320px, 390px and 1440px; no page-level horizontal overflow was detected. Evidence JSON is in `docs/qa/`. This is not a full accessibility certification or a physical-phone test.
+All 37 model, DOM-integration, content-publishing and static tests pass as of the October 27 content update. Browser checks from the original review verify fictional comparisons, keyboard tabs, mandatory-gap changes, commercial totals, JSON/text downloads, mobile navigation and the embedded form's Infrastructure preselection. The earlier 26-page axe evidence JSON is retained in `docs/qa/`; the new 27-page content review is recorded separately there. This is not a full accessibility certification or a physical-phone test.
+
+When adding approved blog posts or activating a supplied PDF, run `npm run build:content` before the checks above and commit the generated HTML, RSS and sitemap with the source. Ordinary hosting still serves the committed static files; no production hosting workflow or permissions were changed.
 
 The evaluator retains inputs only in session memory. Users explicitly download/open local JSON files, download a text summary or use browser Print / PDF. No project database, automatic assessment submission, client login, market-price feed or currency-conversion feed is included. Fonts are self-hosted with their OFL licenses. Original saved-project JSON cost keys remain compatible.
 
