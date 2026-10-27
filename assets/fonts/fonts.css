@@ -1,0 +1,8 @@
+/* Self-hosted Latin subsets. Licenses and source URLs accompany these files. */
+@font-face{font-family:'Fraunces';font-style:normal;font-weight:400;font-display:swap;src:url('./fraunces-latin-400.woff2') format('woff2');}
+@font-face{font-family:'Fraunces';font-style:normal;font-weight:600;font-display:swap;src:url('./fraunces-latin-600.woff2') format('woff2');}
+@font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:400;font-display:swap;src:url('./ibmplexmono-latin-400.woff2') format('woff2');}
+@font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:500;font-display:swap;src:url('./ibmplexmono-latin-500.woff2') format('woff2');}
+@font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url('./inter-latin-400.woff2') format('woff2');}
+@font-face{font-family:'Inter';font-style:normal;font-weight:500;font-display:swap;src:url('./inter-latin-500.woff2') format('woff2');}
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;font-display:swap;src:url('./inter-latin-600.woff2') format('woff2');}

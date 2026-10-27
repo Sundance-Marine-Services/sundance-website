@@ -1,35 +1,40 @@
-# Sundance website rebuild — review draft
+# Sundance website corrections — review release
 
-This branch contains the 23 supplied website pages refreshed with one shared navigation/footer, plus Energy Infrastructure, the Project Evaluator and a custom 404 page. It is ordinary HTML, CSS and JavaScript suitable for the existing GitHub Pages site. Existing vessel/equipment PDFs and photos remain representative catalogue material.
+Complete HTML, CSS, JavaScript and assets for the existing Sundance GitHub Pages site, prepared on October 26, 2026 against commit `27d3fdcd4d5c3a4c1e871aa5d3411aaa5757360d`. The 26 existing HTML filenames and domain configuration are retained. US spellings are used in public copy, visible evaluator labels and exported summaries.
+
+This is a review release, **not a verified production deployment**. GitHub repository write access was verified on October 27, 2026 by creating and reading the `site-corrections-2026-10-26` review branch. The earlier HTTP 403 blocker is resolved. Production remains on the audited baseline until the coordinated release is approved.
 
 ## Review entry points
 
-- `index.html`: refreshed homepage and three business lines.
-- `sundance-energy-infrastructure.html`: project advisory for shallow-water field development.
-- `project-evaluator.html`: public browser-based evaluator, ten combinable work packages, custom criteria and up to four candidate packages.
-- `contact.html`: email-draft preparation and copy fallback. No server-side delivery service is configured.
+- `index.html`: vessel-led homepage and three business lines.
+- `sundance-energy-infrastructure.html`: Project Advisor for shallow-water oil-and-gas field development.
+- `fleet.html`: descriptive image alternatives, working PDF links and further equipment available on request.
+- `project-evaluator.html`: public browser-based evaluator, ten combinable work packages, custom criteria and up to four candidate packages; no login or email gate.
+- `contact.html`: supplied Zoho form with website privacy notice, business-context links and confirmed office/contact details.
+- `docs/website-corrections-2026-10-26.md`: sequential implementation register, evidence and remaining owner actions.
+- `docs/fleet-image-alternatives.md`: fleet image decisions and complete replacement image tags.
 
-Open `index.html` in a browser for a local review. For full clipboard/download behavior, serve the repository root with a normal static web server. There is no build or package installation step.
+## Local preview and tests
 
-The evaluator keeps inputs in session memory. Users explicitly download/open local JSON project files, download a text summary or print to PDF. It makes no application API requests and does not automatically submit assessments to Sundance. No cloud project database, user accounts or market-price feed is included. External Google Fonts remain in use.
+Serve this folder with a normal static web server, for example `python3 -m http.server 8000`, then open `http://localhost:8000/`. The production site has no build or package-installation step. Do not test the root-relative custom 404 from a `file://` URL.
 
-## Validation
-
-Run from the repository root:
+Developer tests:
 
 ```sh
-node --test tests/evaluator.test.cjs
-python3 tests/check_site.py
+npm ci
+npm test
 ```
 
-- 17 model tests pass: all ten module examples, mandatory failures, incomplete requirements, evidence states/references, numeric directions/zero/invalid values, shared criteria, applicability, cost arithmetic, duration warnings, availability, import validation and report content.
-- Static checks pass across all 26 pages: local links, assets and anchors; shared navigation; main landmarks; primary headings; duplicate IDs; canonical metadata; unfinished date markers.
-- Browser verified: homepage/evaluator render, fictional example comparison, editing a candidate changes mandatory-gate results, project JSON download and text-summary download. Downloaded files were inspected and contained the expected project and cost.
-- Browser file-chooser/import verification stalled and is incomplete. Import schema and summary preservation are covered by model tests.
-- Mobile viewport, keyboard-only navigation, print-to-PDF layout, contact email-app behavior and actual email delivery still need final interactive checks. The email form deliberately makes no delivery confirmation claim.
+All 29 model, DOM-integration and static tests pass. Browser checks verify fictional comparisons, keyboard tabs, mandatory-gap changes, commercial totals, JSON/text downloads, mobile navigation and the embedded form's Infrastructure preselection. Axe 4.14 reports zero violations across 26 pages at 320px, 390px and 1440px; no page-level horizontal overflow was detected. Evidence JSON is in `docs/qa/`. This is not a full accessibility certification or a physical-phone test.
 
-## Content review before production
+The evaluator retains inputs only in session memory. Users explicitly download/open local JSON files, download a text summary or use browser Print / PDF. No project database, automatic assessment submission, client login, market-price feed or currency-conversion feed is included. Fonts are self-hosted with their OFL licenses. Original saved-project JSON cost keys remain compatible.
 
-Review the new homepage wording and Energy Infrastructure scope; confirm the published office/contact details; review the updated privacy/disclaimer data-flow wording. Two missing fleet images are explicitly marked as pending, rather than replaced with a different asset. Catalogue specification-pending entries remain labelled. No client-specific commercial data was added to the evaluator.
+## Open release checks
 
-The production branch, existing CNAME and live domain have not been changed by preparing this draft. A reviewed merge and successful GitHub Pages deployment are still required for the new pages to become live.
+1. Review the complete correction release on `site-corrections-2026-10-26`. Main and the review branch were checked against the audited baseline before upload; no newer upstream change was found.
+2. The owner waived adding Phone and a Project Evaluator choice to Zoho on October 27, 2026. The existing form stays unchanged. Evaluator inquiries use its existing Not sure yet option and prefill the request field with Project Evaluator inquiry. The website privacy notice is already provided outside the iframe. Actual notification delivery still needs verification.
+3. Complete real desktop/phone inquiry and inbox checks, Lighthouse mobile, a screen-reader listening pass and browser PDF pagination. Native file-picker operation also remains unverified; the application import handler and saved-project round-trip are tested.
+4. A2, A4 and A5 approved replacement copy was not supplied. Other body wording was preserved except the explicitly requested corrections.
+5. After the complete release is approved and deployed, re-crawl the live site, check WhatsApp/LinkedIn previews, verify search-owner accounts, submit the sitemap and obtain owner live-site approval.
+
+No confidential client names or commercial information have been introduced. The current site's photographs and specification PDFs remain representative catalogue material; no ownership or certification is inferred from them. The original PDF bytes were retained.

@@ -24,7 +24,7 @@ for p in sorted(ROOT.glob('*.html')):
  for ref in page.refs:
   u=urlparse(ref)
   if u.scheme or ref.startswith('//'):continue
-  target=ROOT/unquote(u.path) if u.path else p
+  target=ROOT/(unquote(u.path).lstrip('/') or 'index.html') if u.path else p
   if u.path and not target.is_file():errors.append(f'{p.name}: missing {ref}')
   if u.fragment and target.suffix=='.html' and target.is_file():
    other=Page();other.feed(target.read_text())
