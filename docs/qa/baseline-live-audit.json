@@ -1,0 +1,3334 @@
+{
+  "checked_at": "2026-10-26T14:34:59.209984+00:00",
+  "pages": {
+    "404.html": {
+      "matches_repo": true,
+      "title": "Page not found | Sundance",
+      "title_length": 25,
+      "description": "Explore Sundance Marine Services, Energy Advisory and Energy Infrastructure.",
+      "description_length": 76,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [],
+      "og": {
+        "title": [],
+        "description": [],
+        "url": [],
+        "image": []
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "https://sundance.com.ng/",
+        "https://sundance.com.ng/project-evaluator.html",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "1680d92c5b9bbe92253fa7155de387bb6b04fe7d1761e100c32e48d24fb23e13",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "about.html": {
+      "matches_repo": true,
+      "title": "About Us | Sundance Technologies West Africa Limited",
+      "title_length": 52,
+      "description": "About Sundance Technologies West Africa Limited \u2014 our mission, vision, and core values.",
+      "description_length": 87,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [
+        [
+          1,
+          3
+        ]
+      ],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/about.html"
+      ],
+      "og": {
+        "title": [
+          "About Us | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "About Sundance Technologies West Africa Limited \u2014 our mission, vision, and core values."
+        ],
+        "url": [
+          "https://sundance.com.ng/about.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "e8155a7a58ce4093f39d1d5d136f065f7bc0128424d79b74464492097c910060",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "contact.html": {
+      "matches_repo": true,
+      "title": "Contact | Sundance",
+      "title_length": 18,
+      "description": "Contact Sundance for marine services, energy advisory and shallow-water infrastructure project advisory.",
+      "description_length": 104,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/contact.html"
+      ],
+      "og": {
+        "title": [
+          "Contact | Sundance"
+        ],
+        "description": [
+          "Contact Sundance for marine services, energy advisory and shallow-water infrastructure project advisory."
+        ],
+        "url": [
+          "https://sundance.com.ng/contact.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [
+        "enquiry"
+      ],
+      "images": [
+        {
+          "src": "assets/img/lagos-office-towers.jpg",
+          "alt": "Office towers in Ikoyi, Lagos",
+          "width": "640",
+          "height": "420",
+          "loading": "lazy"
+        }
+      ],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "privacy-policy.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "ed22d9a1ce3de1a7893d1176f35c9b05581a389741c423fbb5d5b498a617bddc",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "disclaimer.html": {
+      "matches_repo": true,
+      "title": "Disclaimer | Sundance Technologies West Africa Limited",
+      "title_length": 54,
+      "description": "Disclaimer for the Sundance Technologies West Africa Limited website.",
+      "description_length": 69,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/disclaimer.html"
+      ],
+      "og": {
+        "title": [
+          "Disclaimer | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Disclaimer for the Sundance Technologies West Africa Limited website."
+        ],
+        "url": [
+          "https://sundance.com.ng/disclaimer.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [
+        "judgements"
+      ],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "energy-business-case-development.html": {
+      "matches_repo": true,
+      "title": "Business Case Development | Sundance Technologies West Africa Limited",
+      "title_length": 69,
+      "description": "We provide technical and commercial input to help clients build the case for a marine, subsea or heavy transport project before it moves forward.",
+      "description_length": 145,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/energy-business-case-development.html"
+      ],
+      "og": {
+        "title": [
+          "Business Case Development | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "We provide technical and commercial input to help clients build the case for a marine, subsea or heavy transport project before it moves forward."
+        ],
+        "url": [
+          "https://sundance.com.ng/energy-business-case-development.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "energy-equipment-procurement.html": {
+      "matches_repo": true,
+      "title": "Equipment Procurement Advisory | Sundance Technologies West Africa Limited",
+      "title_length": 74,
+      "description": "Sundance advises on the selection and procurement of oilfield assets and equipment, from specification through to fabrication partner selection.",
+      "description_length": 144,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/energy-equipment-procurement.html"
+      ],
+      "og": {
+        "title": [
+          "Equipment Procurement Advisory | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Sundance advises on the selection and procurement of oilfield assets and equipment, from specification through to fabrication partner selection."
+        ],
+        "url": [
+          "https://sundance.com.ng/energy-equipment-procurement.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=infrastructure",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "energy-regulatory-compliance.html": {
+      "matches_repo": true,
+      "title": "Regulatory Compliance Advisory | Sundance Technologies West Africa Limited",
+      "title_length": 74,
+      "description": "We help EPC contractors and equipment owners \u2014 including foreign entities entering the region \u2014 navigate regulatory compliance across West Africa\u2019s maritime and energy frameworks.",
+      "description_length": 179,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/energy-regulatory-compliance.html"
+      ],
+      "og": {
+        "title": [
+          "Regulatory Compliance Advisory | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "We help EPC contractors and equipment owners \u2014 including foreign entities entering the region \u2014 navigate regulatory compliance across West Africa\u2019s maritime and energy frameworks."
+        ],
+        "url": [
+          "https://sundance.com.ng/energy-regulatory-compliance.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "energy-technical-commercial-advisory.html": {
+      "matches_repo": true,
+      "title": "Technical & Commercial Advisory | Sundance Technologies West Africa Limited",
+      "title_length": 75,
+      "description": "Sundance advises operators and contractors on the technical and commercial structure of marine and offshore energy projects.",
+      "description_length": 124,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/energy-technical-commercial-advisory.html"
+      ],
+      "og": {
+        "title": [
+          "Technical & Commercial Advisory | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Sundance advises operators and contractors on the technical and commercial structure of marine and offshore energy projects."
+        ],
+        "url": [
+          "https://sundance.com.ng/energy-technical-commercial-advisory.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "energy-value-chain-consultancy.html": {
+      "matches_repo": true,
+      "title": "Energy Value Chain Consultancy | Sundance Technologies West Africa Limited",
+      "title_length": 74,
+      "description": "Sundance Energy Advisory supports operators and contractors across the offshore energy value chain \u2014 from early project structuring through to delivery oversight.",
+      "description_length": 162,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/energy-value-chain-consultancy.html"
+      ],
+      "og": {
+        "title": [
+          "Energy Value Chain Consultancy | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Sundance Energy Advisory supports operators and contractors across the offshore energy value chain \u2014 from early project structuring through to delivery oversight."
+        ],
+        "url": [
+          "https://sundance.com.ng/energy-value-chain-consultancy.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "fleet.html": {
+      "matches_repo": true,
+      "title": "Fleet & Equipment | Sundance Technologies West Africa Limited",
+      "title_length": 61,
+      "description": "Vessel classes and equipment Sundance sources, certifies and supervises across West Africa \u2014 DSVs, ROVs, AHTS, semi-submersible heavy lift, jack-ups, PSV/MPSV, diving spreads and marine transport equipment.",
+      "description_length": 206,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/fleet.html"
+      ],
+      "og": {
+        "title": [
+          "Fleet & Equipment | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Vessel classes and equipment Sundance sources, certifies and supervises across West Africa \u2014 DSVs, ROVs, AHTS, semi-submersible heavy lift, jack-ups, PSV/MPSV, diving spreads and marine transport equipment."
+        ],
+        "url": [
+          "https://sundance.com.ng/fleet.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [
+        "enquiry",
+        "mobilisation"
+      ],
+      "images": [
+        {
+          "src": "dsv-ocv-hero.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "dsv-dp2mpv-hero.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "dsv-bell-launch.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "dsv-dive-control.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "dsv-sat-chambers.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "rov-panther-xt.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "rov-leopard-1000.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "rov-leopard-2000.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "rov-heavy-a.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "rov-heavy-b.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "ahts-87t-hero.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "semisub-eagle-hero.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "semisub-eagle-2.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "semisub-falcon-hero.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "semisub-falcon-2.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "jackup-teras-hero.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "assets/img/specification-image-pending.svg",
+          "alt": "Image pending for this representative equipment entry",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "jackup-lbgrand-hero.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "assets/img/specification-image-pending.svg",
+          "alt": "Image pending for this representative equipment entry",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "psv-ndk-hero.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "dive-air-chamber.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "dive-mixedgas-equip.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "dive-sat-schematic.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        }
+      ],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "#cat-dsv",
+        "#cat-rov",
+        "#cat-ahts",
+        "#cat-semisub",
+        "#cat-jackup",
+        "#cat-psv",
+        "#cat-diving",
+        "#cat-transport",
+        "#cat-heavytransport",
+        "DSV-300m-Saturation-DPS2-Construction-Support-Spec.pdf",
+        "DSV-200m-Saturation-DPII-Multipurpose-Support-Spec.pdf",
+        "DSV-IceClass-DP3-300m-Saturation-Construction-Spec.pdf",
+        "ROV-Electric-WorkClass-1000m-LightFootprint-Spec.pdf",
+        "ROV-Electric-WorkClass-1000m-DeepWater-IRM-Spec.pdf",
+        "ROV-Electric-WorkClass-2000m-ExtendedDepth-Spec.pdf",
+        "ROV-Hydraulic-HeavyWorkClass-3000msw-Spec.pdf",
+        "AHTS-87t-BollardPull-Spec.pdf",
+        "SemiSub-HeavyLift-31800DWT-Spec.pdf",
+        "JackUp-SelfElevatingLiftboat-65m-Spec.pdf",
+        "JackUp-SelfElevatingLiftboat-200ftClass-Spec.pdf",
+        "JackUp-Barge-90ftWorkingDepth-Spec.pdf",
+        "PSV-DP2-MethanolCapability-Spec.pdf",
+        "PSV-DP2-Multipurpose-IMR-Survey-Spec.pdf",
+        "Diving-AirSystem-58m-Spec.pdf",
+        "Diving-MixedGasHeliox-Spec.pdf",
+        "Diving-Saturation-180m-6Man-Spec.pdf",
+        "Transport-FastSupportVessel-20m-Spec.pdf",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [
+        "           Specification in progress ",
+        "           Specification in progress ",
+        "           Specification in progress ",
+        "           Specification in progress ",
+        "           Specification in progress "
+      ],
+      "jsonld": 0,
+      "header_hash": "eb9440e44da285a784bd288e8d75985b6876dbb6a27fcb4ffa0a0ab8b9a52d8f",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "index.html": {
+      "matches_repo": true,
+      "title": "Marine Services, Energy Advisory & Infrastructure | Sundance",
+      "title_length": 60,
+      "description": "Marine operations, energy advisory and shallow-water field development project advisory across West Africa. Explore Sundance and the public Marine Project Evaluator.",
+      "description_length": 165,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/"
+      ],
+      "og": {
+        "title": [
+          "Marine Services, Energy Advisory & Infrastructure | Sundance"
+        ],
+        "description": [
+          "Marine operations, energy advisory and shallow-water field development project advisory across West Africa. Explore Sundance and the public Marine Project Evaluator."
+        ],
+        "url": [
+          "https://sundance.com.ng/"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [
+        "judgement",
+        "judgements"
+      ],
+      "images": [
+        {
+          "src": "assets/img/hero-heavy-lift-platform.jpg",
+          "alt": "Heavy-lift crane and offshore structure",
+          "width": "1600",
+          "height": "466",
+          "loading": null
+        },
+        {
+          "src": "assets/img/osv-stanford-hawk-berth.jpg",
+          "alt": "Offshore support vessel alongside",
+          "width": "600",
+          "height": "360",
+          "loading": "lazy"
+        },
+        {
+          "src": "assets/img/team-blueprint-review.jpg",
+          "alt": "Project team reviewing drawings",
+          "width": "600",
+          "height": "360",
+          "loading": "lazy"
+        },
+        {
+          "src": "assets/img/jackup-platform-generic-illustrative.jpg",
+          "alt": "Illustrative offshore jack-up platform",
+          "width": "600",
+          "height": "360",
+          "loading": "lazy"
+        },
+        {
+          "src": "assets/img/heavy-lift-anchor-chain-1.jpg",
+          "alt": "Project cargo handling involving mooring-chain equipment",
+          "width": "600",
+          "height": "340",
+          "loading": "lazy"
+        },
+        {
+          "src": "gallery-platform-epf.jpg",
+          "alt": "Early production facility project illustration from the supplied gallery",
+          "width": "600",
+          "height": "340",
+          "loading": "lazy"
+        }
+      ],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "our-business.html",
+        "project-evaluator.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "project-evaluator.html#methodology",
+        "project-gallery.html",
+        "project-gallery.html",
+        "project-gallery.html",
+        "contact.html",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [
+        "useful. Open the evaluator \u2192 Read the methodology ILLUSTRATIVE PACKAGE COMPARISON Assessment Package A Package B Depth / spread reach Input matches Revi"
+      ],
+      "jsonld": 0,
+      "header_hash": "4c1c8331ea0b32d8826bd66395d63aa40e95d3f80f738f35cf019ee1828ba00e",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "marine-assets-sp.html": {
+      "matches_repo": true,
+      "title": "Marine Assets S&P | Sundance Technologies West Africa Limited",
+      "title_length": 61,
+      "description": "For clients looking to acquire or dispose of offshore support vessels, Sundance provides sale and purchase advisory from initial sourcing through to transaction close.",
+      "description_length": 167,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/marine-assets-sp.html"
+      ],
+      "og": {
+        "title": [
+          "Marine Assets S&P | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "For clients looking to acquire or dispose of offshore support vessels, Sundance provides sale and purchase advisory from initial sourcing through to transaction close."
+        ],
+        "url": [
+          "https://sundance.com.ng/marine-assets-sp.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "marine-drilling-support.html": {
+      "matches_repo": true,
+      "title": "Drilling Support | Sundance Technologies West Africa Limited",
+      "title_length": 60,
+      "description": "Through our OSV chartering and marine logistics capability, Sundance supports drilling campaigns with the marine services that keep a rig on location and supplied.",
+      "description_length": 163,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/marine-drilling-support.html"
+      ],
+      "og": {
+        "title": [
+          "Drilling Support | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Through our OSV chartering and marine logistics capability, Sundance supports drilling campaigns with the marine services that keep a rig on location and supplied."
+        ],
+        "url": [
+          "https://sundance.com.ng/marine-drilling-support.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=towing",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "marine-offshore-logistics.html": {
+      "matches_repo": true,
+      "title": "Offshore Logistics Support | Sundance Technologies West Africa Limited",
+      "title_length": 70,
+      "description": "Sundance coordinates the marine side of offshore campaigns \u2014 getting cargo, equipment and personnel where they need to be, on schedule.",
+      "description_length": 135,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/marine-offshore-logistics.html"
+      ],
+      "og": {
+        "title": [
+          "Offshore Logistics Support | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Sundance coordinates the marine side of offshore campaigns \u2014 getting cargo, equipment and personnel where they need to be, on schedule."
+        ],
+        "url": [
+          "https://sundance.com.ng/marine-offshore-logistics.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "marine-osv-chartering.html": {
+      "matches_repo": true,
+      "title": "OSV Chartering | Sundance Technologies West Africa Limited",
+      "title_length": 58,
+      "description": "Sundance represents offshore support vessel owners seeking fixtures in West Africa, managing the process from market intelligence through to handover.",
+      "description_length": 150,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/marine-osv-chartering.html"
+      ],
+      "og": {
+        "title": [
+          "OSV Chartering | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Sundance represents offshore support vessel owners seeking fixtures in West Africa, managing the process from market intelligence through to handover."
+        ],
+        "url": [
+          "https://sundance.com.ng/marine-osv-chartering.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "marine-port-cargo-services.html": {
+      "matches_repo": true,
+      "title": "Port & Cargo Services | Sundance Technologies West Africa Limited",
+      "title_length": 65,
+      "description": "Sundance provides cargo superintendency and importation support at West African ports \u2014 independent oversight that protects the client\u2019s interest at the berth.",
+      "description_length": 159,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/marine-port-cargo-services.html"
+      ],
+      "og": {
+        "title": [
+          "Port & Cargo Services | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Sundance provides cargo superintendency and importation support at West African ports \u2014 independent oversight that protects the client\u2019s interest at the berth."
+        ],
+        "url": [
+          "https://sundance.com.ng/marine-port-cargo-services.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=ports",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "marine-project-management.html": {
+      "matches_repo": true,
+      "title": "Marine Project Management | Sundance Technologies West Africa Limited",
+      "title_length": 69,
+      "description": "For marine and port operations that need coordinated planning across multiple parties, Sundance provides project management from mobilization through close-out.",
+      "description_length": 160,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/marine-project-management.html"
+      ],
+      "og": {
+        "title": [
+          "Marine Project Management | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "For marine and port operations that need coordinated planning across multiple parties, Sundance provides project management from mobilization through close-out."
+        ],
+        "url": [
+          "https://sundance.com.ng/marine-project-management.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "marine-ship-management.html": {
+      "matches_repo": true,
+      "title": "Ship Management | Sundance Technologies West Africa Limited",
+      "title_length": 59,
+      "description": "Sundance provides technical and commercial ship management for vessels operating in West African waters, keeping owners informed and vessels compliant.",
+      "description_length": 151,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/marine-ship-management.html"
+      ],
+      "og": {
+        "title": [
+          "Ship Management | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Sundance provides technical and commercial ship management for vessels operating in West African waters, keeping owners informed and vessels compliant."
+        ],
+        "url": [
+          "https://sundance.com.ng/marine-ship-management.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "our-business.html": {
+      "matches_repo": true,
+      "title": "Our Business | Sundance",
+      "title_length": 23,
+      "description": "Explore Sundance Marine Services, Energy Advisory and Energy Infrastructure.",
+      "description_length": 76,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [
+        [
+          1,
+          3
+        ]
+      ],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/our-business.html"
+      ],
+      "og": {
+        "title": [
+          "Our Business | Sundance"
+        ],
+        "description": [
+          "Explore Sundance Marine Services, Energy Advisory and Energy Infrastructure."
+        ],
+        "url": [
+          "https://sundance.com.ng/our-business.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [
+        {
+          "src": "assets/img/osv-stanford-hawk-berth.jpg",
+          "alt": "Offshore support vessel alongside",
+          "width": "600",
+          "height": "360",
+          "loading": "lazy"
+        },
+        {
+          "src": "assets/img/team-blueprint-review.jpg",
+          "alt": "Project team reviewing drawings",
+          "width": "600",
+          "height": "360",
+          "loading": "lazy"
+        },
+        {
+          "src": "assets/img/jackup-platform-generic-illustrative.jpg",
+          "alt": "Illustrative offshore jack-up platform",
+          "width": "600",
+          "height": "360",
+          "loading": "lazy"
+        }
+      ],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "contact.html",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "1680d92c5b9bbe92253fa7155de387bb6b04fe7d1761e100c32e48d24fb23e13",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "privacy-policy.html": {
+      "matches_repo": true,
+      "title": "Privacy Policy | Sundance Technologies West Africa Limited",
+      "title_length": 58,
+      "description": "Privacy Policy for the Sundance Technologies West Africa Limited website.",
+      "description_length": 73,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/privacy-policy.html"
+      ],
+      "og": {
+        "title": [
+          "Privacy Policy | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Privacy Policy for the Sundance Technologies West Africa Limited website."
+        ],
+        "url": [
+          "https://sundance.com.ng/privacy-policy.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [
+        "enquiry"
+      ],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "project-evaluator.html": {
+      "matches_repo": true,
+      "title": "Marine & Energy Project Evaluator | Sundance",
+      "title_length": 44,
+      "description": "Compare marine project packages, technical requirements, evidence gaps and entered costs. Public browser-based tool with local save and report export.",
+      "description_length": 150,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/project-evaluator.html"
+      ],
+      "og": {
+        "title": [
+          "Marine & Energy Project Evaluator | Sundance"
+        ],
+        "description": [
+          "Compare marine project packages, technical requirements, evidence gaps and entered costs. Public browser-based tool with local save and report export."
+        ],
+        "url": [
+          "https://sundance.com.ng/project-evaluator.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [
+        "Enquiry",
+        "demobilisation",
+        "judgement",
+        "mobilisation"
+      ],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html?business=evaluator",
+        "privacy-policy.html",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "e49b70e5f45b4c66ddc462e5f86fc64fbaba59e463b82b410aaead3f39355a3d",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "project-gallery.html": {
+      "matches_repo": true,
+      "title": "Project Gallery | Sundance Technologies West Africa Limited",
+      "title_length": 59,
+      "description": "An overview of Sundance Technologies West Africa Limited's executed marine and energy advisory projects across West Africa since 2018.",
+      "description_length": 134,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/project-gallery.html"
+      ],
+      "og": {
+        "title": [
+          "Project Gallery | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "An overview of Sundance Technologies West Africa Limited's executed marine and energy advisory projects across West Africa since 2018."
+        ],
+        "url": [
+          "https://sundance.com.ng/project-gallery.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [
+        "mobilisation",
+        "programme",
+        "specialised"
+      ],
+      "images": [
+        {
+          "src": "gallery-port-inspection.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "gallery-rov-launch.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "gallery-osv-berth.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "gallery-project-cargo-deck.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "gallery-engine-room.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "gallery-bridge-operations.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "gallery-valve-operations.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "gallery-psv-berth.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        },
+        {
+          "src": "gallery-platform-epf.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        }
+      ],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "024a89713f7277c7a3a8c34f3a8339495ee39978272f786655e66301cac88fef",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "safety-hseq.html": {
+      "matches_repo": true,
+      "title": "Safety & HSEQ | Sundance Technologies West Africa Limited",
+      "title_length": 57,
+      "description": "Sundance\u2019s Health, Safety, Environment and Quality programme \u2014 HSE planning, quality assurance, third-party equipment inspection and environmental stewardship across our marine operations.",
+      "description_length": 188,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/safety-hseq.html"
+      ],
+      "og": {
+        "title": [
+          "Safety & HSEQ | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Sundance\u2019s Health, Safety, Environment and Quality programme \u2014 HSE planning, quality assurance, third-party equipment inspection and environmental stewardship across our marine operations."
+        ],
+        "url": [
+          "https://sundance.com.ng/safety-hseq.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [
+        {
+          "src": "assets/img/team-quayside.jpg",
+          "alt": "Sundance team on the quayside",
+          "width": null,
+          "height": null,
+          "loading": "lazy"
+        }
+      ],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "contact.html",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "2632ed99ade68207ded91bd804177f1b41c58d29c2ac2c7bf784a2feec9fee47",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "sundance-energy-advisory.html": {
+      "matches_repo": true,
+      "title": "Sundance Energy Advisory | Sundance Technologies West Africa Limited",
+      "title_length": 68,
+      "description": "Energy value-chain consultancy, business case development, technical & commercial advisory, regulatory compliance and equipment procurement advisory across West Africa.",
+      "description_length": 168,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/sundance-energy-advisory.html"
+      ],
+      "og": {
+        "title": [
+          "Sundance Energy Advisory | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "Energy value-chain consultancy, business case development, technical & commercial advisory, regulatory compliance and equipment procurement advisory across West Africa."
+        ],
+        "url": [
+          "https://sundance.com.ng/sundance-energy-advisory.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [
+        "centre"
+      ],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "energy-value-chain-consultancy.html",
+        "energy-business-case-development.html",
+        "energy-technical-commercial-advisory.html",
+        "energy-regulatory-compliance.html",
+        "energy-equipment-procurement.html",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "89a2d6a893a1d1e7ad34953c70c4ea718ed0b6a0c0db0617a4bbaca84f06ce56",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "sundance-energy-infrastructure.html": {
+      "matches_repo": true,
+      "title": "Sundance Energy Infrastructure | Shallow-water Project Advisory",
+      "title_length": 63,
+      "description": "Project advisory for shallow-water oil-and-gas field development: concept assessment, engineering interfaces, partner selection and delivery readiness.",
+      "description_length": 151,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/sundance-energy-infrastructure.html"
+      ],
+      "og": {
+        "title": [
+          "Sundance Energy Infrastructure | Shallow-water Project Advisory"
+        ],
+        "description": [
+          "Project advisory for shallow-water oil-and-gas field development: concept assessment, engineering interfaces, partner selection and delivery readiness."
+        ],
+        "url": [
+          "https://sundance.com.ng/sundance-energy-infrastructure.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [
+        "mobilisation",
+        "specialist",
+        "specialists"
+      ],
+      "images": [
+        {
+          "src": "assets/img/jackup-platform-generic-illustrative.jpg",
+          "alt": "Illustrative jack-up platform in shallow offshore waters",
+          "width": "750",
+          "height": "500",
+          "loading": "lazy"
+        }
+      ],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "sundance-energy-advisory.html",
+        "project-evaluator.html?profile=infrastructure",
+        "contact.html?business=infrastructure",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [
+        "parison, partner engagement and interface review. Illustrative image; no Sundance asset ownership or project award is implied. "
+      ],
+      "jsonld": 0,
+      "header_hash": "148fa56271b9f225c133a785493b870e858954b62817fa984c2728f507a16961",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    },
+    "sundance-marine-services.html": {
+      "matches_repo": true,
+      "title": "Sundance Marine Services | Sundance Technologies West Africa Limited",
+      "title_length": 68,
+      "description": "OSV chartering, marine asset S&P, technical & commercial ship management, offshore logistics, drilling support, marine project management and port & cargo services across West Africa.",
+      "description_length": 183,
+      "skip_link": true,
+      "main": 1,
+      "h1": 1,
+      "heading_skips": [],
+      "top_bar": true,
+      "canonical": [
+        "https://sundance.com.ng/sundance-marine-services.html"
+      ],
+      "og": {
+        "title": [
+          "Sundance Marine Services | Sundance Technologies West Africa Limited"
+        ],
+        "description": [
+          "OSV chartering, marine asset S&P, technical & commercial ship management, offshore logistics, drilling support, marine project management and port & cargo services across West Africa."
+        ],
+        "url": [
+          "https://sundance.com.ng/sundance-marine-services.html"
+        ],
+        "image": [
+          "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg"
+        ]
+      },
+      "theme": [
+        "#0b2639"
+      ],
+      "nav_count": 1,
+      "footer_count": 1,
+      "footer_phones": [
+        "tel:+2349090168479"
+      ],
+      "port_harcourt": false,
+      "us_conversion": [],
+      "images": [],
+      "google_fonts": [
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      ],
+      "links": [
+        "#main",
+        "mailto:contact@sundance.com.ng",
+        "index.html",
+        "index.html",
+        "our-business.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "fleet.html",
+        "project-gallery.html",
+        "project-evaluator.html",
+        "about.html",
+        "contact.html",
+        "marine-osv-chartering.html",
+        "marine-assets-sp.html",
+        "marine-ship-management.html",
+        "marine-offshore-logistics.html",
+        "marine-drilling-support.html",
+        "marine-project-management.html",
+        "marine-port-cargo-services.html",
+        "contact.html",
+        "project-evaluator.html?profile=imr",
+        "index.html",
+        "sundance-marine-services.html",
+        "sundance-energy-advisory.html",
+        "sundance-energy-infrastructure.html",
+        "project-evaluator.html",
+        "about.html",
+        "fleet.html",
+        "project-gallery.html",
+        "safety-hseq.html",
+        "contact.html",
+        "mailto:contact@sundance.com.ng",
+        "tel:+2349090168479",
+        "privacy-policy.html",
+        "disclaimer.html"
+      ],
+      "internal_wording": [],
+      "jsonld": 0,
+      "header_hash": "74bb925b0ea209c965bda8c314901f57e4944d28f6597b8f864bff93b1feea53",
+      "footer_hash": "9f23d1c33f972fea26b0293791c813775189723269dea32689177a6a303f49d1"
+    }
+  },
+  "responses": [
+    {
+      "url": "https://sundance.com.ng/404.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/404.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 4454,
+      "sha256": "dbb1343362c82dcc9f7b3aed409dcb9eee18042c1814adbf4dca462eda9db533"
+    },
+    {
+      "url": "https://sundance.com.ng/about.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/about.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 6436,
+      "sha256": "28b23a3004b388b67ed546adf205969b6657258b467a0d7f25cb6f330a936180"
+    },
+    {
+      "url": "https://sundance.com.ng/contact.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/contact.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 7081,
+      "sha256": "e46e9064b4948894f37f1c4f4c9aae6f461ddbd93911b74104375bc2c8e223bb"
+    },
+    {
+      "url": "https://sundance.com.ng/disclaimer.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/disclaimer.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 6509,
+      "sha256": "ac1880df27ddd1190836464df8be496a77f84637818f10b9b2fe14a4fe91dbce"
+    },
+    {
+      "url": "https://sundance.com.ng/energy-business-case-development.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/energy-business-case-development.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 5871,
+      "sha256": "f5d61ae63c8261709c46f57dfc90b09fae20c2e1fa0cdc96d07ec2820d8f9dc0"
+    },
+    {
+      "url": "https://sundance.com.ng/energy-equipment-procurement.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/energy-equipment-procurement.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 5877,
+      "sha256": "d87f6830cb70ba1e591b6130b78c303c6dcae0d227828657b4064157afbb7aff"
+    },
+    {
+      "url": "https://sundance.com.ng/energy-regulatory-compliance.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/energy-regulatory-compliance.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 6027,
+      "sha256": "fbf794bc3caacc22f03763d6b9e667dbc6087fe0b3da413d31b9f5233a7c9208"
+    },
+    {
+      "url": "https://sundance.com.ng/energy-technical-commercial-advisory.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/energy-technical-commercial-advisory.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 5843,
+      "sha256": "a26ccf064ab060af54a7ffcf32e6590518f2ddaf9baa120077cfcc981dc31274"
+    },
+    {
+      "url": "https://sundance.com.ng/energy-value-chain-consultancy.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/energy-value-chain-consultancy.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 6023,
+      "sha256": "3cec00c12725dc61882111d5a3171883d60183bf7237b3273357e7bdd5933ad6"
+    },
+    {
+      "url": "https://sundance.com.ng/fleet.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/fleet.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 61015,
+      "sha256": "941b66a16b931e2674210dd59ea680ad59884377bbf138cd0bd6cf4784bda27a"
+    },
+    {
+      "url": "https://sundance.com.ng/index.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/index.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 11046,
+      "sha256": "de2c62ba973f9cf94524cf9864894dd10d227942e1d15ffb9cb8f5ae751b117b"
+    },
+    {
+      "url": "https://sundance.com.ng/marine-assets-sp.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/marine-assets-sp.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 6006,
+      "sha256": "096101326b8114a3007fe09c9b9e1d2313b8b6b430183f49aada2e66d9089c55"
+    },
+    {
+      "url": "https://sundance.com.ng/marine-drilling-support.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/marine-drilling-support.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 6375,
+      "sha256": "c37e12ece07780c98075932b895396c256653be99d6e2113299db45a380501ed"
+    },
+    {
+      "url": "https://sundance.com.ng/marine-offshore-logistics.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/marine-offshore-logistics.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 5835,
+      "sha256": "faebc70c0e83065023345214d6d6c5bd742eab0c56533bde58826f8fe32b5ae9"
+    },
+    {
+      "url": "https://sundance.com.ng/marine-osv-chartering.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/marine-osv-chartering.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 6242,
+      "sha256": "56f83807578d3c458dca57c01bef81bbbfb6baaf6ee7e6e1211a09863b56a4ad"
+    },
+    {
+      "url": "https://sundance.com.ng/marine-port-cargo-services.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/marine-port-cargo-services.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 5930,
+      "sha256": "b9f284c24e33048f6ce9e7dd7c1b04f58e1b43bdd66189edd442d6e29710e69c"
+    },
+    {
+      "url": "https://sundance.com.ng/marine-project-management.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/marine-project-management.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 5915,
+      "sha256": "6190824f20b248a25e30f9e5b9521ddc1d4348ecb9235df4d0f734ca0d2560dc"
+    },
+    {
+      "url": "https://sundance.com.ng/marine-ship-management.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/marine-ship-management.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 5895,
+      "sha256": "a7471d9b394ea222ad27cb23a184620f09df555d4269f54423e60c79344776d3"
+    },
+    {
+      "url": "https://sundance.com.ng/our-business.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/our-business.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 6458,
+      "sha256": "adce19129269d62dc26630e5711456d3e0dace4f3b9828c49ee993835783ffb1"
+    },
+    {
+      "url": "https://sundance.com.ng/privacy-policy.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/privacy-policy.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 6797,
+      "sha256": "b0fb7ab64290962ddd4b0bc53f99bf82caf8e27bd799444308aa547c25c3ea32"
+    },
+    {
+      "url": "https://sundance.com.ng/project-evaluator.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/project-evaluator.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 9255,
+      "sha256": "9e7c44b720c23a0cdbcaec7b02f2fe3606a5258da7ba4acece49fd1677b4f9d8"
+    },
+    {
+      "url": "https://sundance.com.ng/project-gallery.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/project-gallery.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 24523,
+      "sha256": "c71b8b237daec75b08214c49d69d35a4ab86e41901dd4ba6e962f526531ce398"
+    },
+    {
+      "url": "https://sundance.com.ng/safety-hseq.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/safety-hseq.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 7088,
+      "sha256": "8bef76e4e24706d3c36c12a154615373c6f03e617239de779c4d35e6fb4b2010"
+    },
+    {
+      "url": "https://sundance.com.ng/sundance-energy-advisory.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/sundance-energy-advisory.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 9383,
+      "sha256": "86fd6ac99d38581dd59332f170944e5f6c4a25b33627da3aa24a47b1ecaa12b9"
+    },
+    {
+      "url": "https://sundance.com.ng/sundance-energy-infrastructure.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/sundance-energy-infrastructure.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 8754,
+      "sha256": "3c35bfc839600355cf273894581d92ae848e675b91a6cb2c111355cfcac93afc"
+    },
+    {
+      "url": "https://sundance.com.ng/sundance-marine-services.html",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/sundance-marine-services.html",
+      "type": "text/html; charset=utf-8",
+      "bytes": 7366,
+      "sha256": "c029e81bad2ecc1ee3655acac680ceb6996b2403f1b9af8ec02f58590b5f8418"
+    },
+    {
+      "url": "https://sundance.com.ng/sitemap.xml",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/sitemap.xml",
+      "type": "application/xml",
+      "bytes": 1864,
+      "sha256": "afb9ac45d0c31e049fe2f34fdb6711cdfdf4f0f55aa81974ec33b5efb4dd4e64"
+    },
+    {
+      "url": "https://sundance.com.ng/robots.txt",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/robots.txt",
+      "type": "text/plain; charset=utf-8",
+      "bytes": 68,
+      "sha256": "474ba42ee3df8f50677cd0f4a869a34a74da1bad09dc7f7e0395cc613c203201"
+    },
+    {
+      "url": "https://sundance.com.ng/CNAME",
+      "status": 404,
+      "final_url": "https://sundance.com.ng/CNAME",
+      "type": "text/html; charset=utf-8",
+      "bytes": 4454,
+      "sha256": "dbb1343362c82dcc9f7b3aed409dcb9eee18042c1814adbf4dca462eda9db533"
+    },
+    {
+      "url": "https://sundance.com.ng/",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/",
+      "type": "text/html; charset=utf-8",
+      "bytes": 11046,
+      "sha256": "de2c62ba973f9cf94524cf9864894dd10d227942e1d15ffb9cb8f5ae751b117b"
+    },
+    {
+      "url": "https://sundance.com.ng/AHTS-87t-BollardPull-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/AHTS-87t-BollardPull-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 46998,
+      "sha256": "703523e6ccfc3d61e4304a348b2bb42f40a51d3b97d79d36dce3026c007157fb"
+    },
+    {
+      "url": "https://sundance.com.ng/DSV-200m-Saturation-DPII-Multipurpose-Support-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/DSV-200m-Saturation-DPII-Multipurpose-Support-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 105985,
+      "sha256": "b195edbb22050a0b2d170e6a3576512006e266bd44d3e2cb72d494f17351e8dc"
+    },
+    {
+      "url": "https://sundance.com.ng/DSV-300m-Saturation-DPS2-Construction-Support-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/DSV-300m-Saturation-DPS2-Construction-Support-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 139071,
+      "sha256": "afc812dcc1ed1c00726ab22ab9c6f4e37bab1e6970083882530951ce15890e3b"
+    },
+    {
+      "url": "https://sundance.com.ng/DSV-IceClass-DP3-300m-Saturation-Construction-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/DSV-IceClass-DP3-300m-Saturation-Construction-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 224836,
+      "sha256": "3f2b0a039367a6daa6e2613175638a1a8ae20443ead5b1ac063fb2f87d304efe"
+    },
+    {
+      "url": "https://sundance.com.ng/Diving-AirSystem-58m-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/Diving-AirSystem-58m-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 51942,
+      "sha256": "4ba4f2e4565bc4a4838a8ecc12131bea1f2298aa1742002ea241dd463e07f955"
+    },
+    {
+      "url": "https://sundance.com.ng/Diving-MixedGasHeliox-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/Diving-MixedGasHeliox-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 44945,
+      "sha256": "e89191baa418b8d2831c57e3d3d0ac9062fb7251005a2736aacef841967c4867"
+    },
+    {
+      "url": "https://sundance.com.ng/Diving-Saturation-180m-6Man-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/Diving-Saturation-180m-6Man-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 117845,
+      "sha256": "189e3af06608a6685f019e033a553fb7f11a7b6538a174338cc918809832a806"
+    },
+    {
+      "url": "https://sundance.com.ng/JackUp-Barge-90ftWorkingDepth-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/JackUp-Barge-90ftWorkingDepth-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 26607,
+      "sha256": "c48f3f377b75dfca1727148adc01b8b0d54158e8d3dda74935e7123b674fd2ff"
+    },
+    {
+      "url": "https://sundance.com.ng/JackUp-SelfElevatingLiftboat-200ftClass-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/JackUp-SelfElevatingLiftboat-200ftClass-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 132017,
+      "sha256": "f9b3931492e1fa2e640dcce510541595f9243894ab48ea49a2c385c0e6ea02aa"
+    },
+    {
+      "url": "https://sundance.com.ng/JackUp-SelfElevatingLiftboat-65m-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/JackUp-SelfElevatingLiftboat-65m-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 100095,
+      "sha256": "a61c7e5f8bfcf4c9141ed2cd36b0dc33d60963b91ee0514677110322e8890b1b"
+    },
+    {
+      "url": "https://sundance.com.ng/PSV-DP2-MethanolCapability-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/PSV-DP2-MethanolCapability-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 54594,
+      "sha256": "52a43f69d31acc6efea00e22268a824704844c0c23cde8641e70afa9da2554b5"
+    },
+    {
+      "url": "https://sundance.com.ng/PSV-DP2-Multipurpose-IMR-Survey-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/PSV-DP2-Multipurpose-IMR-Survey-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 290747,
+      "sha256": "56ad432d41b158c8c77bc8857a3c20dd33a3ed6857212b0b0f4d1d66c5f48fea"
+    },
+    {
+      "url": "https://sundance.com.ng/ROV-Electric-WorkClass-1000m-DeepWater-IRM-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/ROV-Electric-WorkClass-1000m-DeepWater-IRM-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 106289,
+      "sha256": "ccf5df5f7f8276d2ae65504bd201ffcdd86d0e76583e0f707dc0577357ebe1b1"
+    },
+    {
+      "url": "https://sundance.com.ng/ROV-Electric-WorkClass-1000m-LightFootprint-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/ROV-Electric-WorkClass-1000m-LightFootprint-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 61860,
+      "sha256": "1c28bfd1e5dad09d2d9419a201e03f573249fc96dd6cc9a8632d6d1a0645e94e"
+    },
+    {
+      "url": "https://sundance.com.ng/ROV-Electric-WorkClass-2000m-ExtendedDepth-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/ROV-Electric-WorkClass-2000m-ExtendedDepth-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 106251,
+      "sha256": "8921edc076431338797a87110ef6acdaaac7cecb1b420f3d08b5bf607e6d624c"
+    },
+    {
+      "url": "https://sundance.com.ng/ROV-Hydraulic-HeavyWorkClass-3000msw-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/ROV-Hydraulic-HeavyWorkClass-3000msw-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 63585,
+      "sha256": "0f658579e39269a6afd55b2f69fa5914be8784221e5fcb2a181ff6e777b5abab"
+    },
+    {
+      "url": "https://sundance.com.ng/SemiSub-HeavyLift-31800DWT-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/SemiSub-HeavyLift-31800DWT-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 159933,
+      "sha256": "007b3c2d101b9af8a3e5486c5951b2286b0d95eb68cd4e5cfc9e06aeadb922de"
+    },
+    {
+      "url": "https://sundance.com.ng/Transport-FastSupportVessel-20m-Spec.pdf",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/Transport-FastSupportVessel-20m-Spec.pdf",
+      "type": "application/pdf",
+      "bytes": 5885,
+      "sha256": "1a6f670ddc517169f61c34b6eead69c8eb9195cb678c6a96eb89c0d6cbb827c6"
+    },
+    {
+      "url": "https://sundance.com.ng/ahts-87t-hero.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/ahts-87t-hero.jpg",
+      "type": "image/jpeg",
+      "bytes": 32750,
+      "sha256": "c58ef12b2415364abaf8116be64bb3ae2bd1d1c3367bc7c23d5ceb7657b7c9f0"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/css/evaluator.css",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/css/evaluator.css",
+      "type": "text/css; charset=utf-8",
+      "bytes": 7277,
+      "sha256": "e70a2e5521d61fd47e9cc69a452a9848b83f4dd360b0b2bf8ec14230498af314"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/css/main.css",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/css/main.css",
+      "type": "text/css; charset=utf-8",
+      "bytes": 15940,
+      "sha256": "bff0205f21ffef57d1d99a9ff676f4de86816f210711fa73cc56dab7583f63ef"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/css/rebuild.css",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/css/rebuild.css",
+      "type": "text/css; charset=utf-8",
+      "bytes": 12376,
+      "sha256": "919988329e6771c3cbe3efdc323981b82da7c1077629714104e376d4b3c89e53"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/bridge-nautical-publications.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/bridge-nautical-publications.jpg",
+      "type": "image/jpeg",
+      "bytes": 267030,
+      "sha256": "663e33dc40fab82ad00475a4d0da9cd15b6db036e6e9f4c5bdcf35b2ed38cc77"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/bulk-carrier-berth-cranes.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/bulk-carrier-berth-cranes.jpg",
+      "type": "image/jpeg",
+      "bytes": 287248,
+      "sha256": "0750107806e1f0054e6f7ad69fef4220bfe65593ca42a994f8bed6f900bcd6b7"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/cable-support-vessel-reel-deck.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/cable-support-vessel-reel-deck.jpg",
+      "type": "image/jpeg",
+      "bytes": 261595,
+      "sha256": "b9c28aa8f408abd794005f7d2dcac179cc491a68dcf1c6b182920d9bca4a34b5"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/container-ship-ensenada.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/container-ship-ensenada.jpg",
+      "type": "image/jpeg",
+      "bytes": 127082,
+      "sha256": "4e8ae73443ce5b95a54cda3969d19eb4b072994ed8e458b8937e6aca65c65ec5"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/crane-loading-support-vessel.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/crane-loading-support-vessel.jpg",
+      "type": "image/jpeg",
+      "bytes": 177845,
+      "sha256": "434783f190aa7cbb6ce46d447b363223c64bfe3c2d5a54439fe331f78f09ebfd"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/crew-boarding-pilot-ladder.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/crew-boarding-pilot-ladder.jpg",
+      "type": "image/jpeg",
+      "bytes": 470539,
+      "sha256": "93fddd8d75f8a998db4e599427aedd8ccb6add2930fe04171302e116b8558b65"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/favicon-180.png",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/favicon-180.png",
+      "type": "image/png",
+      "bytes": 13846,
+      "sha256": "fa3e67cf737dcd88b749e7c6d026bbe3ec8bc2a3c012051b9a1e05a36a91a684"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/favicon-32.png",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/favicon-32.png",
+      "type": "image/png",
+      "bytes": 1818,
+      "sha256": "84a05d9d9320c3b16c9f1131564304de43eccb88b3a1a9318f6ca6d6a26c4219"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/favicon-512.png",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/favicon-512.png",
+      "type": "image/png",
+      "bytes": 51186,
+      "sha256": "73623940bacfab29bd34f3819dfa47a5713501b62311cd147f9b2b1fdf1efe45"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/fpso-generic-illustrative.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/fpso-generic-illustrative.jpg",
+      "type": "image/jpeg",
+      "bytes": 88927,
+      "sha256": "55a7f3a62892952b66becb7b8b4b3fed1ff72504461500735ab609ca886bd1e6"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/heavy-lift-anchor-chain-1.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/heavy-lift-anchor-chain-1.jpg",
+      "type": "image/jpeg",
+      "bytes": 206559,
+      "sha256": "bd672d482f2d6f6dc4659041ee364c542cf3bcfaca0df49bb880b14556c35322"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/heavy-lift-crane-portrait.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/heavy-lift-crane-portrait.jpg",
+      "type": "image/jpeg",
+      "bytes": 91856,
+      "sha256": "321966d3ad20adaaa9be90ab01a9072872dc9170bdde8e390d09d90c37b70438"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/hero-heavy-lift-platform.jpg",
+      "type": "image/jpeg",
+      "bytes": 138029,
+      "sha256": "a10aa16b0648ffaade4c797c83e0c62d3ef304c6724e1ae9a6b84407bc97511e"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/jackup-platform-generic-illustrative.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/jackup-platform-generic-illustrative.jpg",
+      "type": "image/jpeg",
+      "bytes": 167828,
+      "sha256": "3023101a7ca76ac279db690def01fb071e1c085861b99d76cbcdcfb4e9c45675"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/lagos-office-towers.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/lagos-office-towers.jpg",
+      "type": "image/jpeg",
+      "bytes": 335120,
+      "sha256": "2ebec436c7baf50a8e95b9819c1b9702e8a88578a2c25630705259f174491d33"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/logo.png",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/logo.png",
+      "type": "image/png",
+      "bytes": 82247,
+      "sha256": "a0e0220f8da283724afff72d7c8f3c7e82571876dd9344c96d28be9ff4933a8e"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/osv-stanford-hawk-berth.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/osv-stanford-hawk-berth.jpg",
+      "type": "image/jpeg",
+      "bytes": 144928,
+      "sha256": "41c37ae8d3f3c437f64bb8aafd574428239a92643bc7d63309a4ac7461bf8c0c"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/port-aerial-view.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/port-aerial-view.jpg",
+      "type": "image/jpeg",
+      "bytes": 74220,
+      "sha256": "a831c866d7ef2464dcbdab6d08b56a04564b57233b4167604a517ffac1754c66"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/port-professionals-illustrative.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/port-professionals-illustrative.jpg",
+      "type": "image/jpeg",
+      "bytes": 175044,
+      "sha256": "0035e3e5b0045b190e79acae1c02073b9fb3f6a026c7fb4ef1b1348c548f0523"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/project-risk-management.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/project-risk-management.jpg",
+      "type": "image/jpeg",
+      "bytes": 249705,
+      "sha256": "3d08c4926b7f6c040f9b246ca536abb6b69d4709c2732d5d0ecac7de0cad94a0"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/qa-measurement-detail.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/qa-measurement-detail.jpg",
+      "type": "image/jpeg",
+      "bytes": 151562,
+      "sha256": "99e5aa31c215faafdd8acd2085e4be157e165e73f5b1544fed3ee1bbe132b529"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/riggers-deck-cargo-prep.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/riggers-deck-cargo-prep.jpg",
+      "type": "image/jpeg",
+      "bytes": 269629,
+      "sha256": "231b4a5d22f628fabc5501d49fd7cfd8cfb8426f26f3c0c6ff7be28d2e609c41"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/specification-image-pending.svg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/specification-image-pending.svg",
+      "type": "image/svg+xml",
+      "bytes": 399,
+      "sha256": "22a04f538fffc30641e17a090bc3e3fc7156c0199a6fa418e606c30c68afee57"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/team-blueprint-review.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/team-blueprint-review.jpg",
+      "type": "image/jpeg",
+      "bytes": 125665,
+      "sha256": "60dd2854ebaea655585d1c8d1f3cc53f70e5fefb640fd2cecba0a930ec283ca3"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/img/team-quayside.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/img/team-quayside.jpg",
+      "type": "image/jpeg",
+      "bytes": 130203,
+      "sha256": "a5fa2fa5d5ca4f530c560fc4fb309a9938c7736c528e6ebafef3ff5542a1d03b"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/js/evaluator-model.js",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/js/evaluator-model.js",
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 18773,
+      "sha256": "ae7e6d1ec65c547933dede7f9b78f67c8b3e1378cd822e7531d08dbda3dee4ac"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/js/evaluator.js",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/js/evaluator.js",
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 17882,
+      "sha256": "45c5897d07032394eea8917a7fff8ef9fd330906a382946cd7d7253edfb3c400"
+    },
+    {
+      "url": "https://sundance.com.ng/assets/js/main.js",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/assets/js/main.js",
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 2511,
+      "sha256": "ce475f6c27bba0bab75e78322ccaeb61e84d58f9fac91a381eec8d85eeea8cfc"
+    },
+    {
+      "url": "https://sundance.com.ng/dive-air-chamber.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/dive-air-chamber.jpg",
+      "type": "image/jpeg",
+      "bytes": 37168,
+      "sha256": "ec1870ac7ff142c883a8f5cd892be6bf98f81a181c58cb378ac626e053c85d3f"
+    },
+    {
+      "url": "https://sundance.com.ng/dive-mixedgas-equip.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/dive-mixedgas-equip.jpg",
+      "type": "image/jpeg",
+      "bytes": 32707,
+      "sha256": "888d90c0d5cae440db78609c63c46b88596da6eec13d6eb64e5b41fe8f2af0da"
+    },
+    {
+      "url": "https://sundance.com.ng/dive-sat-schematic.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/dive-sat-schematic.jpg",
+      "type": "image/jpeg",
+      "bytes": 89786,
+      "sha256": "de1eafcc2a8e97cffcb29879691b88dd0093a47b4d2512634509281515f7cb09"
+    },
+    {
+      "url": "https://sundance.com.ng/dsv-bell-launch.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/dsv-bell-launch.jpg",
+      "type": "image/jpeg",
+      "bytes": 174492,
+      "sha256": "f40dedb7098f4476b90d8eb95c31e03cecb64723fbb219439e4f054e13edfdcc"
+    },
+    {
+      "url": "https://sundance.com.ng/dsv-dive-control.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/dsv-dive-control.jpg",
+      "type": "image/jpeg",
+      "bytes": 53187,
+      "sha256": "41d58d915c9b526d74c7f076080a27dffb5fd268d730611a7caff01fc2d58d5e"
+    },
+    {
+      "url": "https://sundance.com.ng/dsv-dp2mpv-hero.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/dsv-dp2mpv-hero.jpg",
+      "type": "image/jpeg",
+      "bytes": 79663,
+      "sha256": "c4ac018507f0a28f5a3bf2166cc35ac1cc9e0a2b42f981a707a5478c0cf8ba0b"
+    },
+    {
+      "url": "https://sundance.com.ng/dsv-ocv-hero.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/dsv-ocv-hero.jpg",
+      "type": "image/jpeg",
+      "bytes": 106184,
+      "sha256": "40ac9ac9d53387caf16faa945a62cc6d4507145cac733c0d5c1935e25323a631"
+    },
+    {
+      "url": "https://sundance.com.ng/dsv-sat-chambers.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/dsv-sat-chambers.jpg",
+      "type": "image/jpeg",
+      "bytes": 55591,
+      "sha256": "b656dc571db6cb1c9cbc5d4f415b68f21a63dcd003b5e18e71923888c01ed48b"
+    },
+    {
+      "url": "https://sundance.com.ng/gallery-bridge-operations.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/gallery-bridge-operations.jpg",
+      "type": "image/jpeg",
+      "bytes": 133772,
+      "sha256": "4858dac59806ca33e9e6a95a159d5ec00914cc294aad731b0b8d141fff995fda"
+    },
+    {
+      "url": "https://sundance.com.ng/gallery-engine-room.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/gallery-engine-room.jpg",
+      "type": "image/jpeg",
+      "bytes": 165591,
+      "sha256": "84e041a8a01f3932463f8d80b459069f71f63155f3720794749532f716e319b5"
+    },
+    {
+      "url": "https://sundance.com.ng/gallery-osv-berth.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/gallery-osv-berth.jpg",
+      "type": "image/jpeg",
+      "bytes": 34232,
+      "sha256": "1d85698aa881b0944ef7895eadde1dd2472ec170bcbf05a6c199246d9583f3c9"
+    },
+    {
+      "url": "https://sundance.com.ng/gallery-platform-epf.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/gallery-platform-epf.jpg",
+      "type": "image/jpeg",
+      "bytes": 129145,
+      "sha256": "ea72a96c14b128663d1d89e1b42a987d59bd37e98b5e61ae625289b87cea0f7c"
+    },
+    {
+      "url": "https://sundance.com.ng/gallery-port-inspection.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/gallery-port-inspection.jpg",
+      "type": "image/jpeg",
+      "bytes": 225042,
+      "sha256": "519895531c62dffe690fe5a667ed35d58c66c863a558efb1eabd2510bdee5641"
+    },
+    {
+      "url": "https://sundance.com.ng/gallery-project-cargo-deck.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/gallery-project-cargo-deck.jpg",
+      "type": "image/jpeg",
+      "bytes": 278782,
+      "sha256": "e2a907f5f45f9a0e065a8e9d486a31fd707245d68975536ba0f51ca2ae85d8c3"
+    },
+    {
+      "url": "https://sundance.com.ng/gallery-psv-berth.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/gallery-psv-berth.jpg",
+      "type": "image/jpeg",
+      "bytes": 23255,
+      "sha256": "248815a5d0de321cc7f3e3277718ae581fd35e9161db919d07581f4c398363f7"
+    },
+    {
+      "url": "https://sundance.com.ng/gallery-rov-launch.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/gallery-rov-launch.jpg",
+      "type": "image/jpeg",
+      "bytes": 233121,
+      "sha256": "e37e4a6b9ec08d5f44beecc5170eaf6a924f5c1f9c1471a63e12c970bfc47278"
+    },
+    {
+      "url": "https://sundance.com.ng/gallery-valve-operations.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/gallery-valve-operations.jpg",
+      "type": "image/jpeg",
+      "bytes": 79295,
+      "sha256": "df02f4bcd6f6e6b30438c5eeb2970b97ddef7ca86fda850fc3d2fca5d718f50c"
+    },
+    {
+      "url": "https://sundance.com.ng/jackup-lbgrand-hero.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/jackup-lbgrand-hero.jpg",
+      "type": "image/jpeg",
+      "bytes": 16834,
+      "sha256": "97a84fb8c64887f88e8d0686cb5c2d70c4a9074fd8f189392dadce45e5ac2ff2"
+    },
+    {
+      "url": "https://sundance.com.ng/jackup-teras-hero.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/jackup-teras-hero.jpg",
+      "type": "image/jpeg",
+      "bytes": 75357,
+      "sha256": "64efbac44e9224f75f505195b9e0e69f426e5a1141b0db2278484f496ec097ba"
+    },
+    {
+      "url": "https://sundance.com.ng/psv-ndk-hero.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/psv-ndk-hero.jpg",
+      "type": "image/jpeg",
+      "bytes": 227779,
+      "sha256": "f9150377ac269835f3b3f1edc1ebcef1144b462d9350886353f24b790167e58c"
+    },
+    {
+      "url": "https://sundance.com.ng/rov-heavy-a.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/rov-heavy-a.jpg",
+      "type": "image/jpeg",
+      "bytes": 47674,
+      "sha256": "cb801915a4b3c9585fb0ccf59c554643e725e2397cf61b099b2ea664d59d716d"
+    },
+    {
+      "url": "https://sundance.com.ng/rov-heavy-b.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/rov-heavy-b.jpg",
+      "type": "image/jpeg",
+      "bytes": 55708,
+      "sha256": "66bb2125047a7dcaedd6368a7e1fe23db56fd795557411fcf39c9e253fa10842"
+    },
+    {
+      "url": "https://sundance.com.ng/rov-leopard-1000.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/rov-leopard-1000.jpg",
+      "type": "image/jpeg",
+      "bytes": 80380,
+      "sha256": "12c084a63506d41ddb0ce192502a1b4390fb29c65307af280c65efabed64bd6c"
+    },
+    {
+      "url": "https://sundance.com.ng/rov-leopard-2000.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/rov-leopard-2000.jpg",
+      "type": "image/jpeg",
+      "bytes": 80380,
+      "sha256": "12c084a63506d41ddb0ce192502a1b4390fb29c65307af280c65efabed64bd6c"
+    },
+    {
+      "url": "https://sundance.com.ng/rov-panther-xt.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/rov-panther-xt.jpg",
+      "type": "image/jpeg",
+      "bytes": 44833,
+      "sha256": "b346ec7141dcfff60ad274618d7e440662523a152707fb6e464f60faf63a409c"
+    },
+    {
+      "url": "https://sundance.com.ng/semisub-eagle-2.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/semisub-eagle-2.jpg",
+      "type": "image/jpeg",
+      "bytes": 109330,
+      "sha256": "888a27933c158c6a516573025ef2c8f2757c10b59b9c631d8693c7d0dd173b72"
+    },
+    {
+      "url": "https://sundance.com.ng/semisub-eagle-hero.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/semisub-eagle-hero.jpg",
+      "type": "image/jpeg",
+      "bytes": 123508,
+      "sha256": "7a4c2a649c2afc1860d2035a755a08f5c4083c2ee5be20eb2033fb2652984b1d"
+    },
+    {
+      "url": "https://sundance.com.ng/semisub-falcon-2.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/semisub-falcon-2.jpg",
+      "type": "image/jpeg",
+      "bytes": 214094,
+      "sha256": "208e49983d78c5ac8eeac0bad04edb562299ef574e0112a83bb1ab5862fd5443"
+    },
+    {
+      "url": "https://sundance.com.ng/semisub-falcon-hero.jpg",
+      "status": 200,
+      "final_url": "https://sundance.com.ng/semisub-falcon-hero.jpg",
+      "type": "image/jpeg",
+      "bytes": 105264,
+      "sha256": "26891cd05b214054ded35997ac335c272ce1936623758bad4dd125224ed7a9f8"
+    }
+  ],
+  "broken_anchors": []
+}

@@ -7,11 +7,24 @@
  document.addEventListener('click',e=>{if(!e.target.closest('.s-header')){closeMenu();nav.querySelectorAll('details[open]').forEach(x=>x.open=false);}});
  nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',closeMenu));}
  document.querySelectorAll('[data-year]').forEach(e=>e.textContent=new Date().getFullYear());
- const form=document.getElementById('s-enquiry');if(!form)return;
- const message=document.getElementById('s-enquiry-status');
- const preselect=new URLSearchParams(location.search).get('business');
- if(['marine','advisory','infrastructure','evaluator'].includes(preselect))form.elements.business.value=preselect;
- function details(){const f=new FormData(form);return ['Name: '+f.get('name'),'Company: '+f.get('company'),'Email: '+f.get('email'),'Phone: '+f.get('phone'),'Business: '+form.elements.business.selectedOptions[0].text,'','Scope:',f.get('scope')].join('\n');}
- form.addEventListener('submit',e=>{e.preventDefault();if(!form.reportValidity())return;const subject='Website enquiry — '+form.elements.business.selectedOptions[0].text;location.href='mailto:contact@sundance.com.ng?subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(details());message.textContent='Email draft requested. Review it and send from your email app. This page cannot confirm delivery. You can also copy the details below.';});
- document.getElementById('s-copy-enquiry').addEventListener('click',async()=>{if(!form.reportValidity())return;try{await navigator.clipboard.writeText(details());message.textContent='Enquiry copied. Paste it into an email to contact@sundance.com.ng.';}catch{const box=document.getElementById('s-enquiry-copy');box.hidden=false;box.value=details();box.focus();box.select();message.textContent='Select and copy these details into an email to contact@sundance.com.ng.';}});
+ const frame=document.getElementById('s-contact-frame');
+ if(frame){
+  const topics={marine:'Sundance Marine Services',advisory:'Sundance Energy Advisory',infrastructure:'Sundance Energy Infrastructure',evaluator:'Project Evaluator'};
+  const topic=topics[new URLSearchParams(location.search).get('business')];
+  if(topic){
+   const url=new URL(frame.dataset.formUrl);url.searchParams.set(frame.dataset.prefillAlias,topic==='Project Evaluator'?'Not sure yet':topic);
+   if(topic==='Project Evaluator')url.searchParams.set('MultiLine','Project Evaluator inquiry');
+   frame.src=url.href;
+   const direct=document.getElementById('s-contact-direct');if(direct)direct.href=url.href;
+   const context=document.getElementById('s-inquiry-context');if(context){context.hidden=false;context.textContent='Your inquiry: '+topic;}
+  }
+ }
+ document.querySelectorAll('[data-gallery]').forEach(gallery=>{
+  const track=gallery.querySelector('.g-track'),slides=[...gallery.querySelectorAll('.g-slide')],dots=[...gallery.querySelectorAll('.g-dot')];let index=0;
+  gallery.setAttribute('role','group');gallery.setAttribute('aria-roledescription','carousel');
+  const heading=gallery.closest('article')?.querySelector('h3');if(heading)gallery.setAttribute('aria-label',heading.textContent.trim()+' images');
+  function show(next){index=(next+slides.length)%slides.length;track.style.transform='translateX(-'+index*100+'%)';slides.forEach((slide,i)=>{slide.classList.toggle('is-active',i===index);slide.setAttribute('aria-hidden',String(i!==index));});dots.forEach((dot,i)=>{dot.classList.toggle('is-active',i===index);dot.setAttribute('aria-pressed',String(i===index));});}
+  dots.forEach((dot,i)=>dot.addEventListener('click',()=>show(i)));
+  gallery.querySelector('.g-prev')?.addEventListener('click',()=>show(index-1));gallery.querySelector('.g-next')?.addEventListener('click',()=>show(index+1));show(0);
+ });
 })();

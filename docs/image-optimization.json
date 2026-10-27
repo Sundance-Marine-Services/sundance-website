@@ -1,0 +1,436 @@
+[
+  {
+    "path": "ahts-87t-hero.jpg",
+    "before": 32750,
+    "after": 25158,
+    "width": 638,
+    "height": 406
+  },
+  {
+    "path": "assets/img/bridge-nautical-publications.jpg",
+    "before": 267030,
+    "after": 262970,
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "path": "assets/img/bulk-carrier-berth-cranes.jpg",
+    "before": 287248,
+    "after": 278621,
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "path": "assets/img/cable-support-vessel-reel-deck.jpg",
+    "before": 261595,
+    "after": 255832,
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "path": "assets/img/container-ship-ensenada.jpg",
+    "before": 127082,
+    "after": 126156,
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "path": "assets/img/crane-loading-support-vessel.jpg",
+    "before": 177845,
+    "after": 173900,
+    "width": 1108,
+    "height": 1478
+  },
+  {
+    "path": "assets/img/crawler-crane-onne.jpg",
+    "before": 138207,
+    "after": 136916,
+    "width": 1300,
+    "height": 974
+  },
+  {
+    "path": "assets/img/crew-boarding-pilot-ladder.jpg",
+    "before": 470539,
+    "after": 456016,
+    "width": 1600,
+    "height": 2133
+  },
+  {
+    "path": "assets/img/crew-boat-dusk.jpg",
+    "before": 112260,
+    "after": 111690,
+    "width": 1000,
+    "height": 750
+  },
+  {
+    "path": "assets/img/crucifix-buoy-cargo.jpg",
+    "before": 126153,
+    "after": 122400,
+    "width": 810,
+    "height": 727
+  },
+  {
+    "path": "assets/img/flukes-shanks-storage.jpg",
+    "before": 105096,
+    "after": 103438,
+    "width": 798,
+    "height": 1064
+  },
+  {
+    "path": "assets/img/forklift-operation.jpg",
+    "before": 262684,
+    "after": 255453,
+    "width": 1199,
+    "height": 1600
+  },
+  {
+    "path": "assets/img/fpso-generic-illustrative.jpg",
+    "before": 88927,
+    "after": 87270,
+    "width": 1080,
+    "height": 738
+  },
+  {
+    "path": "assets/img/heavy-lift-anchor-chain-1.jpg",
+    "before": 206559,
+    "after": 199140,
+    "width": 1298,
+    "height": 973
+  },
+  {
+    "path": "assets/img/heavy-lift-anchor-chain-2.jpg",
+    "before": 236436,
+    "after": 232316,
+    "width": 1298,
+    "height": 973
+  },
+  {
+    "path": "assets/img/heavy-lift-crane-portrait.jpg",
+    "before": 91856,
+    "after": 90072,
+    "width": 810,
+    "height": 1262
+  },
+  {
+    "path": "assets/img/hero-heavy-lift-platform.jpg",
+    "before": 138029,
+    "after": 133389,
+    "width": 1600,
+    "height": 466
+  },
+  {
+    "path": "assets/img/jackup-platform-generic-illustrative.jpg",
+    "before": 167828,
+    "after": 163560,
+    "width": 1125,
+    "height": 844
+  },
+  {
+    "path": "assets/img/lagos-office-towers.jpg",
+    "before": 335120,
+    "after": 323551,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "path": "assets/img/marine-port-logistics.jpg",
+    "before": 241768,
+    "after": 238094,
+    "width": 1600,
+    "height": 1234
+  },
+  {
+    "path": "assets/img/osv-stanford-hawk-berth.jpg",
+    "before": 144928,
+    "after": 143603,
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "path": "assets/img/port-aerial-view.jpg",
+    "before": 74220,
+    "after": 71168,
+    "width": 583,
+    "height": 450
+  },
+  {
+    "path": "assets/img/port-cargo-consultancy.jpg",
+    "before": 158215,
+    "after": 156251,
+    "width": 1600,
+    "height": 1234
+  },
+  {
+    "path": "assets/img/port-professionals-illustrative.jpg",
+    "before": 175044,
+    "after": 174491,
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "path": "assets/img/project-risk-management.jpg",
+    "before": 249705,
+    "after": 242214,
+    "width": 1600,
+    "height": 1234
+  },
+  {
+    "path": "assets/img/qa-measurement-detail.jpg",
+    "before": 151562,
+    "after": 147644,
+    "width": 738,
+    "height": 896
+  },
+  {
+    "path": "assets/img/recent-experience-bow.jpg",
+    "before": 59618,
+    "after": 60201,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "path": "assets/img/riggers-deck-cargo-prep.jpg",
+    "before": 269629,
+    "after": 264684,
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "path": "assets/img/rov-operations-offshore.jpg",
+    "before": 58635,
+    "after": 57267,
+    "width": 648,
+    "height": 432
+  },
+  {
+    "path": "assets/img/team-blueprint-review.jpg",
+    "before": 125665,
+    "after": 124476,
+    "width": 1024,
+    "height": 933
+  },
+  {
+    "path": "assets/img/team-quayside.jpg",
+    "before": 130203,
+    "after": 126893,
+    "width": 953,
+    "height": 714
+  },
+  {
+    "path": "assets/img/vessel-bbc-africa-dock.jpg",
+    "before": 221371,
+    "after": 215732,
+    "width": 1404,
+    "height": 1053
+  },
+  {
+    "path": "assets/img/vessel-departing.jpg",
+    "before": 90656,
+    "after": 90744,
+    "width": 1139,
+    "height": 854
+  },
+  {
+    "path": "dive-air-chamber.jpg",
+    "before": 37168,
+    "after": 34552,
+    "width": 551,
+    "height": 414
+  },
+  {
+    "path": "dive-mixedgas-equip.jpg",
+    "before": 32707,
+    "after": 29188,
+    "width": 619,
+    "height": 464
+  },
+  {
+    "path": "dive-sat-schematic.jpg",
+    "before": 89786,
+    "after": 72977,
+    "width": 1000,
+    "height": 750
+  },
+  {
+    "path": "dsv-bell-launch.jpg",
+    "before": 174492,
+    "after": 157753,
+    "width": 1000,
+    "height": 973
+  },
+  {
+    "path": "dsv-dive-control.jpg",
+    "before": 53187,
+    "after": 51204,
+    "width": 587,
+    "height": 436
+  },
+  {
+    "path": "dsv-dp2mpv-hero.jpg",
+    "before": 79663,
+    "after": 73826,
+    "width": 861,
+    "height": 515
+  },
+  {
+    "path": "dsv-ocv-hero.jpg",
+    "before": 106184,
+    "after": 99894,
+    "width": 1100,
+    "height": 787
+  },
+  {
+    "path": "dsv-sat-chambers.jpg",
+    "before": 55591,
+    "after": 53069,
+    "width": 587,
+    "height": 436
+  },
+  {
+    "path": "gallery-bridge-operations.jpg",
+    "before": 133772,
+    "after": 125732,
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "path": "gallery-engine-room.jpg",
+    "before": 165591,
+    "after": 153177,
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "path": "gallery-osv-berth.jpg",
+    "before": 34232,
+    "after": 32110,
+    "width": 600,
+    "height": 349
+  },
+  {
+    "path": "gallery-platform-epf.jpg",
+    "before": 129145,
+    "after": 121065,
+    "width": 1080,
+    "height": 810
+  },
+  {
+    "path": "gallery-port-inspection.jpg",
+    "before": 225042,
+    "after": 211904,
+    "width": 1400,
+    "height": 1050
+  },
+  {
+    "path": "gallery-project-cargo-deck.jpg",
+    "before": 278782,
+    "after": 255305,
+    "width": 1400,
+    "height": 786
+  },
+  {
+    "path": "gallery-psv-berth.jpg",
+    "before": 23255,
+    "after": 21737,
+    "width": 600,
+    "height": 228
+  },
+  {
+    "path": "gallery-rov-launch.jpg",
+    "before": 233121,
+    "after": 217797,
+    "width": 1400,
+    "height": 1050
+  },
+  {
+    "path": "gallery-valve-operations.jpg",
+    "before": 79295,
+    "after": 74276,
+    "width": 900,
+    "height": 550
+  },
+  {
+    "path": "jackup-lbgrand-hero.jpg",
+    "before": 16834,
+    "after": 14329,
+    "width": 350,
+    "height": 194
+  },
+  {
+    "path": "jackup-teras-hero.jpg",
+    "before": 75357,
+    "after": 66652,
+    "width": 1100,
+    "height": 397
+  },
+  {
+    "path": "psv-ndk-hero.jpg",
+    "before": 227779,
+    "after": 204223,
+    "width": 1100,
+    "height": 1408
+  },
+  {
+    "path": "rov-heavy-a.jpg",
+    "before": 47674,
+    "after": 41674,
+    "width": 662,
+    "height": 527
+  },
+  {
+    "path": "rov-heavy-b.jpg",
+    "before": 55708,
+    "after": 47576,
+    "width": 463,
+    "height": 673
+  },
+  {
+    "path": "rov-leopard-1000.jpg",
+    "before": 80380,
+    "after": 72397,
+    "width": 1000,
+    "height": 715
+  },
+  {
+    "path": "rov-leopard-2000.jpg",
+    "before": 80380,
+    "after": 72397,
+    "width": 1000,
+    "height": 715
+  },
+  {
+    "path": "rov-panther-xt.jpg",
+    "before": 44833,
+    "after": 39310,
+    "width": 809,
+    "height": 607
+  },
+  {
+    "path": "semisub-eagle-2.jpg",
+    "before": 109330,
+    "after": 103021,
+    "width": 1100,
+    "height": 609
+  },
+  {
+    "path": "semisub-eagle-hero.jpg",
+    "before": 123508,
+    "after": 117727,
+    "width": 1100,
+    "height": 508
+  },
+  {
+    "path": "semisub-falcon-2.jpg",
+    "before": 214094,
+    "after": 203816,
+    "width": 1100,
+    "height": 766
+  },
+  {
+    "path": "semisub-falcon-hero.jpg",
+    "before": 105264,
+    "after": 99768,
+    "width": 1100,
+    "height": 509
+  }
+]

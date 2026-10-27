@@ -1,0 +1,753 @@
+[
+  {
+    "page": "index.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Marine Services & Energy Advisory | Sundance",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".s-wrap:nth-child(2) > .s-kicker"
+            ],
+            "html": "<p class=\"s-kicker\">Marine &amp; energy / West Africa</p>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Experience on the ground.<br>Clarity at every<br>project decision.</h1>"
+          },
+          {
+            "target": [
+              ".s-lede"
+            ],
+            "html": "<p class=\"s-lede\">We connect marine operations, technical insight and commercial judgment to help clients define, source and deliver the capability their projects need.</p>"
+          },
+          {
+            "target": [
+              ".s-button[href$=\"our-business.html\"]"
+            ],
+            "html": "<a class=\"s-button\" href=\"our-business.html\">Explore our business →</a>"
+          },
+          {
+            "target": [
+              ".s-link[href$=\"project-evaluator.html\"]"
+            ],
+            "html": "<a class=\"s-link\" href=\"project-evaluator.html\">Evaluate a marine project ↗</a>"
+          },
+          {
+            "target": [
+              ".s-hero-foot > span:nth-child(1)"
+            ],
+            "html": "<span>Marine Services<strong>Operational capability</strong></span>"
+          },
+          {
+            "target": [
+              "span:nth-child(1) > strong"
+            ],
+            "html": "<strong>Operational capability</strong>"
+          },
+          {
+            "target": [
+              ".s-hero-foot > span:nth-child(2)"
+            ],
+            "html": "<span>Energy Advisory<strong>Technical &amp; commercial decisions</strong></span>"
+          },
+          {
+            "target": [
+              "span:nth-child(2) > strong"
+            ],
+            "html": "<strong>Technical &amp; commercial decisions</strong>"
+          },
+          {
+            "target": [
+              ".s-hero-foot > span:nth-child(3)"
+            ],
+            "html": "<span>Energy Infrastructure<strong>Field development advisory</strong></span>"
+          },
+          {
+            "target": [
+              "span:nth-child(3) > strong"
+            ],
+            "html": "<strong>Field development advisory</strong>"
+          }
+        ]
+      }
+    ],
+    "passed": 21
+  },
+  {
+    "page": "about.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "About Sundance | Marine & Energy Consultancy",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".hero-inner > .eyebrow"
+            ],
+            "html": "<div class=\"eyebrow\" style=\"color:rgba(255,255,255,.75);\">ABOUT US</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>A West Africa-focused marine and energy value-chain company</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">Sundance Technologies West Africa Limited supports marine and energy operators across the region, combining hands-on marine project delivery with technical and commercial advisory.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "our-business.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Our Business | Sundance Marine & Energy",
+    "violations": [],
+    "incomplete": [],
+    "passed": 21
+  },
+  {
+    "page": "contact.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Contact Sundance | Marine & Energy Inquiries",
+    "violations": [],
+    "incomplete": [],
+    "passed": 24
+  },
+  {
+    "page": "fleet.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Vessels & Equipment | Sundance Marine Services",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".hero__eyebrow"
+            ],
+            "html": "<p class=\"hero__eyebrow\">Vessels &amp; Equipment</p>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Vessels and equipment access</h1>"
+          },
+          {
+            "target": [
+              ".hero__inner > p:nth-child(3)"
+            ],
+            "html": "<p>Sundance gives clients access to the marine and oilfield assets a project needs — offshore support vessels, dive support and ROV systems, diving spreads, semi-submersible heavy lift, jack-ups, and heavy transport equipment — sourced, certified and supervised across West Africa.</p>"
+          },
+          {
+            "target": [
+              "p:nth-child(4)"
+            ],
+            "html": "<p>The classes below set out what we cover. Each has a representative specification sheet you can download; exact availability and certification are confirmed at inquiry stage.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 25
+  },
+  {
+    "page": "project-gallery.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Experience | Sundance Marine & Energy Projects",
+    "violations": [],
+    "incomplete": [],
+    "passed": 21
+  },
+  {
+    "page": "sundance-marine-services.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Marine Services | Sundance West Africa",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".hero-inner > .eyebrow.teal"
+            ],
+            "html": "<div class=\"eyebrow teal\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE MARINE SERVICES</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Hands-on marine and port operations across West Africa</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">Sundance Marine Services handles the operational side of the business — vessel chartering, technical ship management, and cargo superintendency, done on the ground at West African ports and waterways.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "sundance-energy-advisory.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Energy Advisory | Sundance West Africa",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".hero-inner > .eyebrow.brass"
+            ],
+            "html": "<div class=\"eyebrow brass\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE ENERGY ADVISORY</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Advisory across the energy value chain</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">Sundance Energy Advisory is our consultancy business — working with operators, EPC contractors and marine services companies on the technical, commercial and regulatory decisions behind a project.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "sundance-energy-infrastructure.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Energy Infrastructure | Sundance Field Advisory",
+    "violations": [],
+    "incomplete": [],
+    "passed": 21
+  },
+  {
+    "page": "project-evaluator.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Marine & Energy Project Evaluator | Sundance",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              "#ev-new"
+            ],
+            "html": "<button id=\"ev-new\" class=\"s-button s-button-light\">New assessment</button>"
+          }
+        ]
+      }
+    ],
+    "passed": 31
+  },
+  {
+    "page": "safety-hseq.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Safety & HSEQ | Sundance Marine Services",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".hero-inner > .eyebrow"
+            ],
+            "html": "<div class=\"eyebrow\" style=\"color:rgba(255,255,255,.75);\">SAFETY &amp; HSEQ</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Every operation begins and ends safely</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">Handling heavy cargo and marine equipment is inherently high-risk. Sundance builds Health, Safety, Environment and Quality planning into every job — not as paperwork after the fact, but as part of how the operation is planned.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "marine-osv-chartering.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "OSV Chartering | Sundance Marine Services",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".eyebrow"
+            ],
+            "html": "<div class=\"eyebrow teal\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE MARINE SERVICES</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>OSV Chartering</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">Sundance represents offshore support vessel owners seeking fixtures in West Africa, managing the process from market intelligence through to handover.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "marine-assets-sp.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Marine Asset Sale & Purchase Advisory | Sundance",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".eyebrow"
+            ],
+            "html": "<div class=\"eyebrow teal\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE MARINE SERVICES</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Marine Assets S&amp;P</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">For clients looking to acquire or dispose of offshore support vessels, Sundance provides sale and purchase advisory from initial sourcing through to transaction close.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "marine-ship-management.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Ship Management | Sundance Marine Services",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".eyebrow"
+            ],
+            "html": "<div class=\"eyebrow teal\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE MARINE SERVICES</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Ship Management</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">Sundance provides technical and commercial ship management for vessels operating in West African waters, keeping owners informed and vessels compliant.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "marine-offshore-logistics.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Offshore Logistics | Sundance Marine Services",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".eyebrow"
+            ],
+            "html": "<div class=\"eyebrow teal\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE MARINE SERVICES</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Offshore Logistics Support</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">Sundance coordinates the marine side of offshore campaigns — getting cargo, equipment and personnel where they need to be, on schedule.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "marine-drilling-support.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Drilling Campaign Marine Support | Sundance",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".eyebrow"
+            ],
+            "html": "<div class=\"eyebrow teal\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE MARINE SERVICES</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Drilling Support</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">Through our OSV chartering and marine logistics capability, Sundance supports drilling campaigns with the marine services that keep a rig on location and supplied.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "marine-project-management.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Marine Project Management | Sundance",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".eyebrow"
+            ],
+            "html": "<div class=\"eyebrow teal\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE MARINE SERVICES</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Marine Project Management</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">For marine and port operations that need coordinated planning across multiple parties, Sundance provides project management from mobilization through close-out.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "marine-port-cargo-services.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Port & Cargo Services | Sundance Marine Services",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".eyebrow"
+            ],
+            "html": "<div class=\"eyebrow teal\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE MARINE SERVICES</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Port &amp; Cargo Services</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">Sundance provides cargo superintendency and importation support at West African ports — independent oversight that protects the client’s interest at the berth.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "energy-value-chain-consultancy.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Energy Value Chain Consultancy | Sundance",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".eyebrow"
+            ],
+            "html": "<div class=\"eyebrow brass\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE ENERGY ADVISORY</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Energy Value Chain Consultancy</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">Sundance Energy Advisory supports operators and contractors across the offshore energy value chain — from early project structuring through to delivery oversight.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "energy-business-case-development.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Business Case Development | Sundance Energy Advisory",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".eyebrow"
+            ],
+            "html": "<div class=\"eyebrow brass\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE ENERGY ADVISORY</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Business Case Development</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">We provide technical and commercial input to help clients build the case for a marine, subsea or heavy transport project before it moves forward.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "energy-technical-commercial-advisory.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Technical & Commercial Advisory | Sundance",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".eyebrow"
+            ],
+            "html": "<div class=\"eyebrow brass\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE ENERGY ADVISORY</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Technical &amp; Commercial Advisory</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">Sundance advises operators and contractors on the technical and commercial structure of marine and offshore energy projects.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "energy-regulatory-compliance.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Regulatory Compliance Advisory | Sundance",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".eyebrow"
+            ],
+            "html": "<div class=\"eyebrow brass\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE ENERGY ADVISORY</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Regulatory Compliance Advisory</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">We help EPC contractors and equipment owners — including foreign entities entering the region — navigate regulatory compliance across West Africa’s maritime and energy frameworks.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "energy-equipment-procurement.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Equipment Procurement Advisory | Sundance",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".eyebrow"
+            ],
+            "html": "<div class=\"eyebrow brass\" style=\"color:rgba(255,255,255,.75);\">SUNDANCE ENERGY ADVISORY</div>"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "html": "<h1>Equipment Procurement Advisory</h1>"
+          },
+          {
+            "target": [
+              ".lede"
+            ],
+            "html": "<p class=\"lede\">Sundance advises on the selection and procurement of oilfield assets and equipment, from specification through to fabrication partner selection.</p>"
+          }
+        ]
+      }
+    ],
+    "passed": 22
+  },
+  {
+    "page": "privacy-policy.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Privacy Policy | Sundance Technologies",
+    "violations": [],
+    "incomplete": [],
+    "passed": 22
+  },
+  {
+    "page": "disclaimer.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Website Disclaimer | Sundance Technologies",
+    "violations": [],
+    "incomplete": [],
+    "passed": 22
+  },
+  {
+    "page": "404.html",
+    "viewport": 320,
+    "pageWidth": 320,
+    "title": "Page Not Found | Sundance Marine & Energy",
+    "violations": [],
+    "incomplete": [],
+    "passed": 21
+  }
+]

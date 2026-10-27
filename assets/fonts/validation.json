@@ -1,0 +1,113 @@
+[
+  {
+    "family": "Fraunces",
+    "weight": 400,
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/fraunces/Fraunces%5BSOFT%2CWONK%2Copsz%2Cwght%5D.ttf",
+    "filename": "fraunces-latin-400.woff2",
+    "bytes": 36224,
+    "sha256": "e4bfdac41699c1d22ec6d38f511fa1f4784e1a7b779f9f17c79f9a741a36a031",
+    "os2_weight": 400,
+    "axes": {
+      "opsz": {
+        "min": 9.0,
+        "default": 9.0,
+        "max": 144.0
+      }
+    },
+    "glyph_count": 227,
+    "missing_requested_symbols": [
+      "U+2190",
+      "U+2192",
+      "U+2197"
+    ],
+    "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/fraunces/OFL.txt"
+  },
+  {
+    "family": "Fraunces",
+    "weight": 600,
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/fraunces/Fraunces%5BSOFT%2CWONK%2Copsz%2Cwght%5D.ttf",
+    "filename": "fraunces-latin-600.woff2",
+    "bytes": 36872,
+    "sha256": "3e33d06437f0c97ec10c1954b7253ddacdd2c4fccc34345594bda6ba309e9d67",
+    "os2_weight": 600,
+    "axes": {
+      "opsz": {
+        "min": 9.0,
+        "default": 9.0,
+        "max": 144.0
+      }
+    },
+    "glyph_count": 227,
+    "missing_requested_symbols": [
+      "U+2190",
+      "U+2192",
+      "U+2197"
+    ],
+    "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/fraunces/OFL.txt"
+  },
+  {
+    "family": "IBM Plex Mono",
+    "weight": 400,
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n5ig.ttf",
+    "filename": "ibmplexmono-latin-400.woff2",
+    "bytes": 14336,
+    "sha256": "521c0aa7c403724acd529ac6b00e4e0c913edfeca4e11d1dd2c0bb6e41047057",
+    "os2_weight": 400,
+    "axes": {},
+    "glyph_count": 235,
+    "missing_requested_symbols": [],
+    "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexmono/OFL.txt"
+  },
+  {
+    "family": "IBM Plex Mono",
+    "weight": 500,
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3twJ8lc.ttf",
+    "filename": "ibmplexmono-latin-500.woff2",
+    "bytes": 14620,
+    "sha256": "c1fdd1e57b5593630cd93fb55b9788c1f606e7e05f12abb592971e3b552f9e9a",
+    "os2_weight": 500,
+    "axes": {},
+    "glyph_count": 235,
+    "missing_requested_symbols": [],
+    "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexmono/OFL.txt"
+  },
+  {
+    "family": "Inter",
+    "weight": 400,
+    "url": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf",
+    "filename": "inter-latin-400.woff2",
+    "bytes": 21852,
+    "sha256": "b3efc65507318506a8a91da7e9e5ca3bb7a092bbc68e3c550df39d05d1ebc86a",
+    "os2_weight": 400,
+    "axes": {},
+    "glyph_count": 293,
+    "missing_requested_symbols": [],
+    "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/OFL.txt"
+  },
+  {
+    "family": "Inter",
+    "weight": 500,
+    "url": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf",
+    "filename": "inter-latin-500.woff2",
+    "bytes": 22424,
+    "sha256": "219ba2e69b4240e8d4ccba93b351a8954f4b893dd13481c24f129ad39c3efb4d",
+    "os2_weight": 500,
+    "axes": {},
+    "glyph_count": 293,
+    "missing_requested_symbols": [],
+    "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/OFL.txt"
+  },
+  {
+    "family": "Inter",
+    "weight": 600,
+    "url": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf",
+    "filename": "inter-latin-600.woff2",
+    "bytes": 22488,
+    "sha256": "634c5f9d8bd44b65e142a0a5988855d015db3076e72dc0af52e0bdf8dfea1e4b",
+    "os2_weight": 600,
+    "axes": {},
+    "glyph_count": 293,
+    "missing_requested_symbols": [],
+    "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/OFL.txt"
+  }
+]
