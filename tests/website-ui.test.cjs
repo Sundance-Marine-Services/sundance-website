@@ -35,8 +35,8 @@ test('contact links preserve each requested business context in the supplied Zoh
 test('gallery controls expose one current image and update pressed indicators',()=>{
  const {d,close}=setup('fleet.html');try{const gallery=[...d.querySelectorAll('[data-gallery]')].find(g=>g.querySelectorAll('.g-slide').length>1);assert.equal(gallery.querySelectorAll('.g-slide[aria-hidden=false]').length,1);gallery.querySelector('.g-next').click();assert.equal(gallery.querySelectorAll('.g-slide[aria-hidden=false]').length,1);assert.equal(gallery.querySelectorAll('.g-dot[aria-pressed=true]').length,1);assert.equal(gallery.querySelector('.g-dot[aria-pressed=true]').getAttribute('data-idx'),'1');}finally{close();}
 });
-test('printed evaluator summary renders the company registration in superscript',()=>{
- const {w,d,close}=setup();try{let called=0;w.print=()=>called++;d.getElementById('ev-example').click();d.querySelector('[data-action=print]').click();assert.equal(called,1);assert.equal(d.querySelector('#evaluation-print sup.s-rc').textContent,'RC 1497579');assert.match(d.getElementById('evaluation-print').textContent,/634000|634,000/);}finally{close();}
+test('printed evaluator summary stays plain without inserting registration into report text',()=>{
+ const {w,d,close}=setup();try{let called=0;w.print=()=>called++;d.getElementById('ev-example').click();d.querySelector('[data-action=print]').click();assert.equal(called,1);assert.equal(d.querySelector('#evaluation-print sup.s-rc'),null);assert.doesNotMatch(d.getElementById('evaluation-print').textContent,/RC\s*1497579/);assert.match(d.getElementById('evaluation-print').textContent,/634000|634,000/);}finally{close();}
 });
 test('Escape closes mobile navigation and returns focus to its trigger',()=>{
  const {w,d,close}=setup('about.html');try{const button=d.getElementById('s-menu');button.click();assert.equal(button.getAttribute('aria-expanded'),'true');d.dispatchEvent(new w.KeyboardEvent('keydown',{key:'Escape',bubbles:true}));assert.equal(button.getAttribute('aria-expanded'),'false');assert.equal(d.activeElement,button);}finally{close();}

@@ -23,7 +23,7 @@ test('all pages share working navigation, offices, phone links and unique metada
 test('local page links, anchors, scripts, fonts and specification PDFs resolve',()=>{
  let pdfs=new Set();
  for(const name of pages){const dom=new JSDOM(fs.readFileSync(path.join(ROOT,name),'utf8'),{url:'https://sundance.com.ng/'+name});try{const d=dom.window.document;for(const el of d.querySelectorAll('a[href],img[src],script[src],link[href]')){const v=el.getAttribute(el.hasAttribute('src')?'src':'href');const u=new URL(v,d.URL);if(u.hostname!=='sundance.com.ng')continue;const p=decodeURIComponent(u.pathname).slice(1)||'index.html';const file=path.join(ROOT,p);assert.ok(fs.existsSync(file),name+' -> '+p);if(p.endsWith('.pdf')){pdfs.add(p);assert.equal(fs.readFileSync(file).subarray(0,5).toString(),'%PDF-');}if(u.hash&&p.endsWith('.html')){const target=new JSDOM(fs.readFileSync(file,'utf8'));try{assert.ok(target.window.document.getElementById(decodeURIComponent(u.hash.slice(1))),name+' -> '+v);}finally{target.window.close();}}}}finally{dom.window.close();}}
- assert.equal(pdfs.size,18);
+ assert.equal(pdfs.size,18+Object.values(JSON.parse(fs.readFileSync(path.join(ROOT,'content/downloads.json'),'utf8'))).filter(x=>x.path).length);
 });
 test('release has no obsolete cards, internal image wording or unsupported regulatory evaluator link',()=>{
  for(const name of pages){const d=new JSDOM(fs.readFileSync(path.join(ROOT,name),'utf8'));try{const text=d.window.document.querySelector('main').textContent;assert.doesNotMatch(text,/specification in progress|image pending|supplied gallery|asset-light|turnkey|purpose-built|bankable/i,name);}finally{d.window.close();}}

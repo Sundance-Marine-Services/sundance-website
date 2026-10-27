@@ -42,7 +42,15 @@
 .s-brand .s-rc{font-size:8px}
 .s-brand small{letter-spacing:1.2px}
 .s-facts li{grid-template-columns:minmax(0,1fr)}
-.hero.inner .s-image-note{font:400 11px/1.6 var(--s-sans);color:#fff;max-width:620px;margin-top:24px}
+.s-business-card>img{width:100%;height:auto;aspect-ratio:8/5;object-fit:cover;object-position:50% 55%;flex:none}
+.s-business-card{min-width:0}
+.s-values-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px;margin-top:32px}
+.s-value-card{padding:28px 24px;background:#fff;border:1px solid #d7e1e4;border-top:3px solid #a67c3d;min-width:0}
+.s-value-icon{display:block;width:80px;height:80px;margin-bottom:26px}
+.s-value-card h3{font:500 24px/1.3 var(--s-serif);color:#0b1f35;margin:0 0 16px}
+.s-value-card p{font-size:15px;line-height:1.8;margin:0;color:#42616f}
+@media(max-width:1050px){.s-values-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.s-values-grid{grid-template-columns:1fr}.s-value-card{padding:26px}}
 .s-download-card{border:1px solid var(--s-line);padding:32px;background:var(--s-mist);max-width:850px}
 .s-download-status{font-size:14px;color:#42616f}
 .s-download-actions{display:flex;gap:16px;align-items:center;flex-wrap:wrap}

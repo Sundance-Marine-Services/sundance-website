@@ -1,6 +1,6 @@
 # Public downloads and static blog
 
-Prepared October 27, 2026. The corporate and Energy Infrastructure PDFs have not yet been supplied. Nothing in this change replaces the original 18 equipment PDFs.
+Updated October 27, 2026. The corporate and Energy Infrastructure PDFs are now supplied and linked, byte-for-byte unchanged. Nothing in this change replaces the original 18 equipment PDFs.
 
 ## Downloads
 
@@ -54,10 +54,12 @@ Primary hosting reference checked October 27, 2026: https://docs.github.com/en/p
 
 ## This review's other changes
 
-- Remove painted Stanford Hawk name, registry port and IMO identity from the vessel image; use a generically named edited asset in page and sharing references. The unedited named image is not in the deployable asset set.
+- Remove painted Stanford Hawk name, registry port and IMO identity from the vessel image; use a generically named edited asset in page and sharing references. The unedited named image is not in the deployable asset set. The FPSO has also been anonymized and its previous caption removed, as requested in the subsequent owner review.
 - Remove decorative service, business-card and approach numbering. Evaluator step numbering remains functional navigation rather than service numbering.
-- Superscript `RC 1497579` next to the legal company name and header/footer wordmarks. Metadata, structured data and plain-text exports cannot render HTML superscript; they retain plain-text registration information instead.
+- Superscript `RC 1497579` in site headers and footers only. Do not add it to prose, headings, bylines, descriptions or evaluator report text. Structured Organization identifiers remain machine-readable legal metadata, not visible sentence decorations.
 - Replace Business Overview headline with the requested integrated-solutions wording.
-- Use the existing FPSO image on About, with an illustrative-use note and matching sharing metadata. No new FPSO or rig ownership is implied.
+- Use the anonymized FPSO image on About and matching sharing metadata. Remove the previous illustrative-use note per the owner's correction; do not introduce ownership claims.
+- Present Diligence, Integrity, Resilience and Excellence as four boxed cards with individual navy/brass vector icons matching the supplied reference. Preserve the existing descriptions.
+- Business cards explicitly reset image height and use the same 8:5 frame with cover cropping, preventing intrinsic portrait dimensions from pushing headings out of alignment.
 - Remove the dated reverse-chronological caption on Experience.
 - These are review-branch/private-preview changes, not a production merge.
